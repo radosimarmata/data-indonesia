@@ -1,30 +1,44 @@
 [
   {
     "id": "92.02",
-    "nama": "Kab. Manokwari"
+    "nama": "Kab. Manokwari",
+    "latitude": -0.88300,
+    "longitude": 134.08500
   },
   {
     "id": "92.03",
-    "nama": "Kab. Fak Fak"
+    "nama": "Kab. Fak Fak",
+    "latitude": -2.18300,
+    "longitude": 132.31600
   },
   {
     "id": "92.06",
-    "nama": "Kab. Teluk Bintuni"
+    "nama": "Kab. Teluk Bintuni",
+    "latitude": -2.02400,
+    "longitude": 133.92900
   },
   {
     "id": "92.07",
-    "nama": "Kab. Teluk Wondama"
+    "nama": "Kab. Teluk Wondama",
+    "latitude": -1.60000,
+    "longitude": 134.16300
   },
   {
     "id": "92.08",
-    "nama": "Kab. Kaimana"
+    "nama": "Kab. Kaimana",
+    "latitude": -3.12500,
+    "longitude": 134.20000
   },
   {
     "id": "92.11",
-    "nama": "Kab. Manokwari Selatan"
+    "nama": "Kab. Manokwari Selatan",
+    "latitude": -1.23200,
+    "longitude": 134.04100
   },
   {
     "id": "92.12",
-    "nama": "Kab. Pegunungan Arfak"
+    "nama": "Kab. Pegunungan Arfak",
+    "latitude": -1.04400,
+    "longitude": 134.30600
   }
 ]
