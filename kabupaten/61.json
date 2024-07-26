@@ -2,85 +2,85 @@
   {
     "id": "61.01",
     "nama": "Kab. Sambas",
-    "latitude": 1.34200,
-    "longitude": 109.27900
+    "latitude": 1.361328,
+    "longitude": 109.309998
   },
   {
     "id": "61.02",
     "nama": "Kab. Mempawah",
-    "latitude": 0.57900,
-    "longitude": 109.27800
+    "latitude": 0.39103800295147234,
+    "longitude": 109.14063481415302
   },
   {
     "id": "61.03",
     "nama": "Kab. Sanggau",
-    "latitude": -0.10300,
-    "longitude": 110.50100
+    "latitude": 0.119275,
+    "longitude": 110.597298
   },
   {
     "id": "61.04",
     "nama": "Kab. Ketapang",
-    "latitude": -1.37100,
-    "longitude": 109.48400
+    "latitude": -1.859098,
+    "longitude": 109.971901
   },
   {
     "id": "61.05",
     "nama": "Kab. Sintang",
-    "latitude": -0.58600,
-    "longitude": 111.49700
+    "latitude": 0.080238,
+    "longitude": 111.495499
   },
   {
     "id": "61.06",
     "nama": "Kab. Kapuas Hulu",
-    "latitude": -0.42800,
-    "longitude": 112.93400
+    "latitude": -0.7931004,
+    "longitude": 113.9060624
   },
   {
     "id": "61.07",
     "nama": "Kab. Bengkayang",
-    "latitude": 0.86500,
-    "longitude": 109.49600
+    "latitude": 0.8209729,
+    "longitude": 109.477699
   },
   {
     "id": "61.08",
     "nama": "Kab. Landak",
-    "latitude": -0.34700,
-    "longitude": 109.66700
+    "latitude": 0.4237287,
+    "longitude": 109.7591675
   },
   {
     "id": "61.09",
     "nama": "Kab. Sekadau",
-    "latitude": -1.19100,
-    "longitude": 111.50500
+    "latitude": 0.015637,
+    "longitude": 110.888603
   },
   {
     "id": "61.10",
     "nama": "Kab. Melawi",
-    "latitude": -0.74100,
-    "longitude": 111.32200
+    "latitude": -0.7000681,
+    "longitude": 111.6660725
   },
   {
     "id": "61.11",
     "nama": "Kab. Kayong Utara",
-    "latitude": -1.93200,
-    "longitude": 108.59400
+    "latitude": -0.9225877,
+    "longitude": 110.0449662
   },
   {
     "id": "61.12",
     "nama": "Kab. Kubu Raya",
-    "latitude": -0.28900,
-    "longitude": 109.36700
+    "latitude": -0.3533938,
+    "longitude": 109.4735066
   },
   {
     "id": "61.71",
     "nama": "Kota Pontianak",
-    "latitude": -0.02600,
-    "longitude": 109.34200
+    "latitude": -0.022523,
+    "longitude": 109.330307
   },
   {
     "id": "61.72",
     "nama": "Kota Singkawang",
-    "latitude": 1.26300,
-    "longitude": 109.61600
+    "latitude": 0.908795,
+    "longitude": 108.984596
   }
 ]
