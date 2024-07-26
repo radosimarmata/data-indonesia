@@ -1,142 +1,212 @@
 [
   {
     "id": "33.01",
-    "nama": "Kab. Cilacap"
+    "nama": "Kab. Cilacap",
+    "latitude": -7.73056,
+    "longitude": 108.59556
   },
   {
     "id": "33.02",
-    "nama": "Kab. Banyumas"
+    "nama": "Kab. Banyumas",
+    "latitude": -7.41667,
+    "longitude": 109.23333
   },
   {
     "id": "33.03",
-    "nama": "Kab. Purbalingga"
+    "nama": "Kab. Purbalingga",
+    "latitude": -7.36667,
+    "longitude": 109.16667
   },
   {
     "id": "33.04",
-    "nama": "Kab. Banjarnegara"
+    "nama": "Kab. Banjarnegara",
+    "latitude": -7.41139,
+    "longitude": 109.16667
   },
   {
     "id": "33.05",
-    "nama": "Kab. Kebumen"
+    "nama": "Kab. Kebumen",
+    "latitude": -7.66667,
+    "longitude": 109.06667
   },
   {
     "id": "33.06",
-    "nama": "Kab. Purworejo"
+    "nama": "Kab. Purworejo",
+    "latitude": -7.66667,
+    "longitude": 109.23333
   },
   {
     "id": "33.07",
-    "nama": "Kab. Wonosobo"
+    "nama": "Kab. Wonosobo",
+    "latitude": -7.36667,
+    "longitude": 109.98333
   },
   {
     "id": "33.08",
-    "nama": "Kab. Magelang"
+    "nama": "Kab. Magelang",
+    "latitude": -7.46667,
+    "longitude": 110.23333
   },
   {
     "id": "33.09",
-    "nama": "Kab. Boyolali"
+    "nama": "Kab. Boyolali",
+    "latitude": -7.51667,
+    "longitude": 110.61667
   },
   {
     "id": "33.10",
-    "nama": "Kab. Klaten"
+    "nama": "Kab. Klaten",
+    "latitude": -7.71667,
+    "longitude": 110.61667
   },
   {
     "id": "33.11",
-    "nama": "Kab. Sukoharjo"
+    "nama": "Kab. Sukoharjo",
+    "latitude": -7.58333,
+    "longitude": 110.61667
   },
   {
     "id": "33.12",
-    "nama": "Kab. Wonogiri"
+    "nama": "Kab. Wonogiri",
+    "latitude": -7.83056,
+    "longitude": 111.03278
   },
   {
     "id": "33.13",
-    "nama": "Kab. Karanganyar"
+    "nama": "Kab. Karanganyar",
+    "latitude": -7.46667,
+    "longitude": 110.76667
   },
   {
     "id": "33.14",
-    "nama": "Kab. Sragen"
+    "nama": "Kab. Sragen",
+    "latitude": -7.30000,
+    "longitude": 111.01667
   },
   {
     "id": "33.15",
-    "nama": "Kab. Grobogan"
+    "nama": "Kab. Grobogan",
+    "latitude": -7.08333,
+    "longitude": 110.71667
   },
   {
     "id": "33.16",
-    "nama": "Kab. Blora"
+    "nama": "Kab. Blora",
+    "latitude": -7.01667,
+    "longitude": 111.53333
   },
   {
     "id": "33.17",
-    "nama": "Kab. Rembang"
+    "nama": "Kab. Rembang",
+    "latitude": -6.73333,
+    "longitude": 111.38333
   },
   {
     "id": "33.18",
-    "nama": "Kab. Pati"
+    "nama": "Kab. Pati",
+    "latitude": -6.76667,
+    "longitude": 111.08333
   },
   {
     "id": "33.19",
-    "nama": "Kab. Kudus"
+    "nama": "Kab. Kudus",
+    "latitude": -6.78333,
+    "longitude": 112.08333
   },
   {
     "id": "33.20",
-    "nama": "Kab. Jepara"
+    "nama": "Kab. Jepara",
+    "latitude": -6.61667,
+    "longitude": 110.68333
   },
   {
     "id": "33.21",
-    "nama": "Kab. Demak"
+    "nama": "Kab. Demak",
+    "latitude": -6.95000,
+    "longitude": 110.46667
   },
   {
     "id": "33.22",
-    "nama": "Kab. Semarang"
+    "nama": "Kab. Semarang",
+    "latitude": -7.08333,
+    "longitude": 110.41667
   },
   {
     "id": "33.23",
-    "nama": "Kab. Temanggung"
+    "nama": "Kab. Temanggung",
+    "latitude": -7.31667,
+    "longitude": 110.11667
   },
   {
     "id": "33.24",
-    "nama": "Kab. Kendal"
+    "nama": "Kab. Kendal",
+    "latitude": -7.00000,
+    "longitude": 110.41667
   },
   {
     "id": "33.25",
-    "nama": "Kab. Batang"
+    "nama": "Kab. Batang",
+    "latitude": -6.86667,
+    "longitude": 109.91667
   },
   {
     "id": "33.26",
-    "nama": "Kab. Pekalongan"
+    "nama": "Kab. Pekalongan",
+    "latitude": -6.91667,
+    "longitude": 109.66667
   },
   {
     "id": "33.27",
-    "nama": "Kab. Pemalang"
+    "nama": "Kab. Pemalang",
+    "latitude": -6.98333,
+    "longitude": 109.36667
   },
   {
     "id": "33.28",
-    "nama": "Kab. Tegal"
+    "nama": "Kab. Tegal",
+    "latitude": -6.86139,
+    "longitude": 109.13389
   },
   {
     "id": "33.29",
-    "nama": "Kab. Brebes"
+    "nama": "Kab. Brebes",
+    "latitude": -7.06667,
+    "longitude": 109.13333
   },
   {
     "id": "33.71",
-    "nama": "Kota Magelang"
+    "nama": "Kota Magelang",
+    "latitude": -7.46667,
+    "longitude": 110.23333
   },
   {
     "id": "33.72",
-    "nama": "Kota Surakarta"
+    "nama": "Kota Surakarta",
+    "latitude": -7.56667,
+    "longitude": 110.81667
   },
   {
     "id": "33.73",
-    "nama": "Kota Salatiga"
+    "nama": "Kota Salatiga",
+    "latitude": -7.33139,
+    "longitude": 110.51167
   },
   {
     "id": "33.74",
-    "nama": "Kota Semarang"
+    "nama": "Kota Semarang",
+    "latitude": -6.96667,
+    "longitude": 110.41667
   },
   {
     "id": "33.75",
-    "nama": "Kota Pekalongan"
+    "nama": "Kota Pekalongan",
+    "latitude": -6.91667,
+    "longitude": 109.66667
   },
   {
     "id": "33.76",
-    "nama": "Kota Tegal"
+    "nama": "Kota Tegal",
+    "latitude": -6.86139,
+    "longitude": 109.13389
   }
 ]
