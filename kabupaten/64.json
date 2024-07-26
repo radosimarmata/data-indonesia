@@ -2,61 +2,61 @@
   {
     "id": "64.01",
     "nama": "Kab. Paser",
-    "latitude": -1.17800,
-    "longitude": 115.16900
+    "latitude": -1.7175266,
+    "longitude": 115.9467997
   },
   {
     "id": "64.02",
     "nama": "Kab. Kutai Kartanegara",
-    "latitude": -1.05900,
-    "longitude": 116.57500
+    "latitude": -0.1336655,
+    "longitude": 116.6081653
   },
   {
     "id": "64.03",
     "nama": "Kab. Berau",
-    "latitude": -2.15000,
-    "longitude": 117.40000
+    "latitude": 2.0450883,
+    "longitude": 117.3616476
   },
   {
     "id": "64.07",
     "nama": "Kab. Kutai Barat",
-    "latitude": -1.80000,
-    "longitude": 115.54000
+    "latitude": 0.1353881,
+    "longitude": 115.094045
   },
   {
     "id": "64.08",
     "nama": "Kab. Kutai Timur",
-    "latitude": -1.35700,
-    "longitude": 117.25800
+    "latitude": 0.9433774,
+    "longitude": 116.9852422
   },
   {
     "id": "64.09",
     "nama": "Kab. Penajam Paser Utara",
-    "latitude": -1.12700,
-    "longitude": 116.99000
+    "latitude": -1.2917094,
+    "longitude": 116.5137964
   },
   {
     "id": "64.11",
     "nama": "Kab. Mahakam Ulu",
-    "latitude": -1.91000,
-    "longitude": 137.04000
+    "latitude": 0.9750146499864375,
+    "longitude": 114.7159186114094
   },
   {
     "id": "64.71",
     "nama": "Kota Balikpapan",
-    "latitude": -1.25900,
-    "longitude": 116.89100
+    "latitude": -1.2635389,
+    "longitude": 116.8278833
   },
   {
     "id": "64.72",
     "nama": "Kota Samarinda",
-    "latitude": -0.50200,
-    "longitude": 117.15000
+    "latitude": -0.502183,
+    "longitude": 117.153801
   },
   {
     "id": "64.74",
     "nama": "Kota Bontang",
-    "latitude": -0.13300,
-    "longitude": 117.47100
+    "latitude": 0.1333333,
+    "longitude": 117.5
   }
 ]
