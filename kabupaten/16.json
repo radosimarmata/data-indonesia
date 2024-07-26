@@ -2,103 +2,103 @@
   {
     "id": "16.01",
     "nama": "Kab. Ogan Komering Ulu",
-    "latitude": -4.0350,
-    "longitude": 104.7108
+    "latitude": -4.0283486,
+    "longitude": 104.0072348
   },
   {
     "id": "16.02",
     "nama": "Kab. Ogan Komering Ilir",
-    "latitude": -3.3558,
-    "longitude": 104.6740
+    "latitude": -3.4559744,
+    "longitude": 105.2194808
   },
   {
     "id": "16.03",
     "nama": "Kab. Muara Enim",
-    "latitude": -3.4310,
-    "longitude": 104.1904
+    "latitude": -3.651581,
+    "longitude": 103.770798
   },
   {
     "id": "16.04",
     "nama": "Kab. Lahat",
-    "latitude": -3.7388,
-    "longitude": 104.6554
+    "latitude": -3.7863889,
+    "longitude": 103.5427778
   },
   {
     "id": "16.05",
     "nama": "Kab. Musi Rawas",
-    "latitude": -3.2014,
-    "longitude": 102.7701
+    "latitude": -2.8625305,
+    "longitude": 102.989615
   },
   {
     "id": "16.06",
     "nama": "Kab. Musi Banyuasin",
-    "latitude": -2.8316,
-    "longitude": 104.0299
+    "latitude": -2.5442029,
+    "longitude": 103.7289167
   },
   {
     "id": "16.07",
     "nama": "Kab. Banyuasin",
-    "latitude": -2.8601,
-    "longitude": 104.7240
+    "latitude": -2.6070041094834093,
+    "longitude": 104.75252404339597
   },
   {
     "id": "16.08",
     "nama": "Kab. Ogan Komering Ulu Timur",
-    "latitude": -4.0067,
-    "longitude": 104.5477
+    "latitude": -3.8567934,
+    "longitude": 104.7520939
   },
   {
     "id": "16.09",
     "nama": "Kab. Ogan Komering Ulu Selatan",
-    "latitude": -4.3051,
-    "longitude": 104.5530
+    "latitude": -4.6681951,
+    "longitude": 104.0072348
   },
   {
     "id": "16.10",
     "nama": "Kab. Ogan Ilir",
-    "latitude": -3.1233,
-    "longitude": 104.7818
+    "latitude": -3.426544,
+    "longitude": 104.6121475
   },
   {
     "id": "16.11",
     "nama": "Kab. Empat Lawang",
-    "latitude": -3.2778,
-    "longitude": 102.8472
+    "latitude": -3.7286029,
+    "longitude": 102.8975098
   },
   {
     "id": "16.12",
     "nama": "Kab. Penukal Abab Lematang Ilir",
-    "latitude": -3.3634,
-    "longitude": 103.1551
+    "latitude": -3.2397520709504155,
+    "longitude": 104.00723170903855
   },
   {
     "id": "16.13",
     "nama": "Kab. Musi Rawas Utara",
-    "latitude": -3.0604,
-    "longitude": 102.5836
+    "latitude": -2.786627303849185,
+    "longitude": 102.71342932817153
   },
   {
     "id": "16.71",
     "nama": "Kota Palembang",
-    "latitude": -2.9916,
-    "longitude": 104.7560
+    "latitude": -2.9911083,
+    "longitude": 104.7567333
   },
   {
     "id": "16.72",
     "nama": "Kota Pagar Alam",
-    "latitude": -4.0046,
-    "longitude": 104.2193
+    "latitude": -4.03767,
+    "longitude": 103.265297
   },
   {
     "id": "16.73",
     "nama": "Kota Lubuk Linggau",
-    "latitude": -3.3074,
-    "longitude": 102.8591
+    "latitude": -3.2995439865217917,
+    "longitude": 102.85724507409121
   },
   {
     "id": "16.74",
     "nama": "Kota Prabumulih",
-    "latitude": -3.4445,
-    "longitude": 104.1850
+    "latitude": -3.440956,
+    "longitude": 104.235397
   }
 ]
