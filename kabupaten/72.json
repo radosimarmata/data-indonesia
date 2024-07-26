@@ -1,54 +1,80 @@
 [
   {
     "id": "72.01",
-    "nama": "Kab. Banggai"
+    "nama": "Kab. Banggai",
+    "latitude": -1.30900,
+    "longitude": 122.94700
   },
   {
     "id": "72.02",
-    "nama": "Kab. Poso"
+    "nama": "Kab. Poso",
+    "latitude": -1.40900,
+    "longitude": 120.73200
   },
   {
     "id": "72.03",
-    "nama": "Kab. Donggala"
+    "nama": "Kab. Donggala",
+    "latitude": -0.27400,
+    "longitude": 119.79200
   },
   {
     "id": "72.04",
-    "nama": "Kab. Toli Toli"
+    "nama": "Kab. Toli Toli",
+    "latitude": 0.60500,
+    "longitude": 120.86700
   },
   {
     "id": "72.05",
-    "nama": "Kab. Buol"
+    "nama": "Kab. Buol",
+    "latitude": 1.48500,
+    "longitude": 121.70700
   },
   {
     "id": "72.06",
-    "nama": "Kab. Morowali"
+    "nama": "Kab. Morowali",
+    "latitude": 1.07400,
+    "longitude": 121.55700
   },
   {
     "id": "72.07",
-    "nama": "Kab. Banggai Kepulauan"
+    "nama": "Kab. Banggai Kepulauan",
+    "latitude": 0.74700,
+    "longitude": 122.15800
   },
   {
     "id": "72.08",
-    "nama": "Kab. Parigi Moutong"
+    "nama": "Kab. Parigi Moutong",
+    "latitude": -1.13900,
+    "longitude": 120.22800
   },
   {
     "id": "72.09",
-    "nama": "Kab. Tojo Una Una"
+    "nama": "Kab. Tojo Una Una",
+    "latitude": -1.26600,
+    "longitude": 121.21000
   },
   {
     "id": "72.10",
-    "nama": "Kab. Sigi"
+    "nama": "Kab. Sigi",
+    "latitude": -1.13200,
+    "longitude": 120.95400
   },
   {
     "id": "72.11",
-    "nama": "Kab. Banggai Laut"
+    "nama": "Kab. Banggai Laut",
+    "latitude": -1.51600,
+    "longitude": 122.21000
   },
   {
     "id": "72.12",
-    "nama": "Kab. Morowali Utara"
+    "nama": "Kab. Morowali Utara",
+    "latitude": 1.43900,
+    "longitude": 121.79900
   },
   {
     "id": "72.71",
-    "nama": "Kota Palu"
+    "nama": "Kota Palu",
+    "latitude": -0.89600,
+    "longitude": 119.84100
   }
 ]
