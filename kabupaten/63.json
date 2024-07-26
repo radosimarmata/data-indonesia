@@ -2,79 +2,79 @@
   {
     "id": "63.01",
     "nama": "Kab. Tanah Laut",
-    "latitude": -3.29400,
-    "longitude": 114.90700
+    "latitude": -3.7694047,
+    "longitude": 114.8092691
   },
   {
     "id": "63.02",
     "nama": "Kab. Kotabaru",
-    "latitude": -3.01600,
-    "longitude": 115.51200
+    "latitude": -3.0019527881970554,
+    "longitude": 115.94675172984002
   },
   {
     "id": "63.03",
     "nama": "Kab. Banjar",
-    "latitude": -3.28600,
-    "longitude": 114.75900
+    "latitude": -7.3666667,
+    "longitude": 108.5333333
   },
   {
     "id": "63.04",
     "nama": "Kab. Barito Kuala",
-    "latitude": -3.22600,
-    "longitude": 114.56000
+    "latitude": -3.0714738,
+    "longitude": 114.6667939
   },
   {
     "id": "63.05",
     "nama": "Kab. Tapin",
-    "latitude": -3.11500,
-    "longitude": 115.04800
+    "latitude": -2.9160746,
+    "longitude": 115.0465991
   },
   {
     "id": "63.06",
     "nama": "Kab. Hulu Sungai Selatan",
-    "latitude": -3.26500,
-    "longitude": 115.17600
+    "latitude": -2.7662681,
+    "longitude": 115.2363408
   },
   {
     "id": "63.07",
     "nama": "Kab. Hulu Sungai Tengah",
-    "latitude": -2.91200,
-    "longitude": 115.24500
+    "latitude": -2.6153162,
+    "longitude": 115.5207358
   },
   {
     "id": "63.08",
     "nama": "Kab. Hulu Sungai Utara",
-    "latitude": -2.84600,
-    "longitude": 115.32800
+    "latitude": -2.4421225,
+    "longitude": 115.188916
   },
   {
     "id": "63.09",
     "nama": "Kab. Tabalong",
-    "latitude": -1.88000,
-    "longitude": 115.23500
+    "latitude": -1.864302,
+    "longitude": 115.5681084
   },
   {
     "id": "63.10",
     "nama": "Kab. Tanah Bumbu",
-    "latitude": -3.36000,
-    "longitude": 115.34500
+    "latitude": -3.4512244,
+    "longitude": 115.5681084
   },
   {
     "id": "63.11",
     "nama": "Kab. Balangan",
-    "latitude": -2.79700,
-    "longitude": 115.33300
+    "latitude": -2.3260425,
+    "longitude": 115.6154732
   },
   {
     "id": "63.71",
     "nama": "Kota Banjarmasin",
-    "latitude": -3.31900,
-    "longitude": 114.59000
+    "latitude": -3.328499,
+    "longitude": 114.589203
   },
   {
     "id": "63.72",
     "nama": "Kota Banjarbaru",
-    "latitude": -3.38300,
-    "longitude": 114.84400
+    "latitude": -3.4548583483751334,
+    "longitude": 114.81018207286512
   }
 ]
