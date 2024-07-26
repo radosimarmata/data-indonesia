@@ -2,49 +2,49 @@
   {
     "id": "36.01",
     "nama": "Kab. Pandeglang",
-    "latitude": -6.60556,
-    "longitude": 106.10944
+    "latitude": -6.314835,
+    "longitude": 106.103897
   },
   {
     "id": "36.02",
     "nama": "Kab. Lebak",
-    "latitude": -6.61000,
-    "longitude": 106.13417
+    "latitude": -6.5643956,
+    "longitude": 106.2522143
   },
   {
     "id": "36.03",
     "nama": "Kab. Tangerang",
-    "latitude": -6.17306,
-    "longitude": 106.63111
+    "latitude": -6.1783056,
+    "longitude": 106.6318889
   },
   {
     "id": "36.04",
     "nama": "Kab. Serang",
-    "latitude": -6.09778,
-    "longitude": 106.15806
+    "latitude": -6.12009,
+    "longitude": 106.150299
   },
   {
     "id": "36.71",
     "nama": "Kota Tangerang",
-    "latitude": -6.17446,
-    "longitude": 106.63204
+    "latitude": -6.1783056,
+    "longitude": 106.6318889
   },
   {
     "id": "36.72",
     "nama": "Kota Cilegon",
-    "latitude": -6.00222,
-    "longitude": 106.08417
+    "latitude": -6.0169825,
+    "longitude": 106.040506
   },
   {
     "id": "36.73",
     "nama": "Kota Serang",
-    "latitude": -6.11500,
-    "longitude": 106.15694
+    "latitude": -6.12009,
+    "longitude": 106.150299
   },
   {
     "id": "36.74",
     "nama": "Kota Tangerang Selatan",
-    "latitude": -6.29694,
-    "longitude": 106.71333
+    "latitude": -6.2888889,
+    "longitude": 106.7180556
   }
 ]
