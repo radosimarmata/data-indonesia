@@ -1,46 +1,68 @@
 [
   {
     "id": "81.01",
-    "nama": "Kab. Maluku Tengah"
+    "nama": "Kab. Maluku Tengah",
+    "latitude": -3.38100,
+    "longitude": 128.21700
   },
   {
     "id": "81.02",
-    "nama": "Kab. Maluku Tenggara"
+    "nama": "Kab. Maluku Tenggara",
+    "latitude": -6.12700,
+    "longitude": 130.10600
   },
   {
     "id": "81.03",
-    "nama": "Kab. Kepulauan Tanimbar (Maluku Tenggara Barat)"
+    "nama": "Kab. Kepulauan Tanimbar (Maluku Tenggara Barat)",
+    "latitude": -7.91700,
+    "longitude": 132.74200
   },
   {
     "id": "81.04",
-    "nama": "Kab. Buru"
+    "nama": "Kab. Buru",
+    "latitude": -3.28700,
+    "longitude": 126.76400
   },
   {
     "id": "81.05",
-    "nama": "Kab. Seram Bagian Timur"
+    "nama": "Kab. Seram Bagian Timur",
+    "latitude": -3.32500,
+    "longitude": 128.58200
   },
   {
     "id": "81.06",
-    "nama": "Kab. Seram Bagian Barat"
+    "nama": "Kab. Seram Bagian Barat",
+    "latitude": -3.55600,
+    "longitude": 128.34500
   },
   {
     "id": "81.07",
-    "nama": "Kab. Kepulauan Aru"
+    "nama": "Kab. Kepulauan Aru",
+    "latitude": -6.02000,
+    "longitude": 134.57900
   },
   {
     "id": "81.08",
-    "nama": "Kab. Maluku Barat Daya"
+    "nama": "Kab. Maluku Barat Daya",
+    "latitude": -8.97200,
+    "longitude": 126.42100
   },
   {
     "id": "81.09",
-    "nama": "Kab. Buru Selatan"
+    "nama": "Kab. Buru Selatan",
+    "latitude": -3.95600,
+    "longitude": 126.48400
   },
   {
     "id": "81.71",
-    "nama": "Kota Ambon"
+    "nama": "Kota Ambon",
+    "latitude": -3.69500,
+    "longitude": 128.18000
   },
   {
     "id": "81.72",
-    "nama": "Kota Tual"
+    "nama": "Kota Tual",
+    "latitude": -5.66700,
+    "longitude": 132.75000
   }
 ]
