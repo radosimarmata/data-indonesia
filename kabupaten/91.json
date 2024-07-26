@@ -2,55 +2,55 @@
   {
     "id": "91.03",
     "nama": "Kab. Jayapura",
-    "latitude": -2.69700,
-    "longitude": 140.51800
+    "latitude": -2.533,
+    "longitude": 140.717
   },
   {
     "id": "91.05",
     "nama": "Kab. Kepulauan Yapen",
-    "latitude": -1.97000,
-    "longitude": 139.96000
+    "latitude": -1.7469359,
+    "longitude": 136.1709012
   },
   {
     "id": "91.06",
     "nama": "Kab. Biak Numfor",
-    "latitude": -1.18500,
-    "longitude": 136.95000
+    "latitude": -1.0381022,
+    "longitude": 135.9800848
   },
   {
     "id": "91.10",
     "nama": "Kab. Sarmi",
-    "latitude": -2.55300,
-    "longitude": 140.47700
+    "latitude": -1.868727,
+    "longitude": 138.743607
   },
   {
     "id": "91.11",
     "nama": "Kab. Keerom",
-    "latitude": -1.54100,
-    "longitude": 140.37900
+    "latitude": -3.3449536,
+    "longitude": 140.7624493
   },
   {
     "id": "91.15",
     "nama": "Kab. Waropen",
-    "latitude": -2.21600,
-    "longitude": 139.94200
+    "latitude": -2.8435717,
+    "longitude": 136.670534
   },
   {
     "id": "91.19",
     "nama": "Kab. Supiori",
-    "latitude": -2.07600,
-    "longitude": 139.94100
+    "latitude": -0.7295099,
+    "longitude": 135.6385125
   },
   {
     "id": "91.20",
     "nama": "Kab. Mamberamo Raya",
-    "latitude": -2.21200,
-    "longitude": 139.82700
+    "latitude": -2.5331255,
+    "longitude": 137.7637565
   },
   {
     "id": "91.71",
     "nama": "Kota Jayapura",
-    "latitude": -2.53300,
-    "longitude": 140.71700
+    "latitude": -2.533,
+    "longitude": 140.717
   }
 ]
