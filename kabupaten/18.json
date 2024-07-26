@@ -1,62 +1,92 @@
 [
   {
     "id": "18.01",
-    "nama": "Kab. Lampung Selatan"
+    "nama": "Kab. Lampung Selatan",
+    "latitude": -8.90000,
+    "longitude": 113.33333
   },
   {
     "id": "18.02",
-    "nama": "Kab. Lampung Tengah"
+    "nama": "Kab. Lampung Tengah",
+    "latitude": -5.43500,
+    "longitude": 104.82167
   },
   {
     "id": "18.03",
-    "nama": "Kab. Lampung Utara"
+    "nama": "Kab. Lampung Utara",
+    "latitude": -5.45694,
+    "longitude": 104.88306
   },
   {
     "id": "18.04",
-    "nama": "Kab. Lampung Barat"
+    "nama": "Kab. Lampung Barat",
+    "latitude": -5.59556,
+    "longitude": 104.11611
   },
   {
     "id": "18.05",
-    "nama": "Kab. Tulang Bawang"
+    "nama": "Kab. Tulang Bawang",
+    "latitude": -4.78278,
+    "longitude": 105.14444
   },
   {
     "id": "18.06",
-    "nama": "Kab. Tanggamus"
+    "nama": "Kab. Tanggamus",
+    "latitude": -5.24667,
+    "longitude": 104.89306
   },
   {
     "id": "18.07",
-    "nama": "Kab. Lampung Timur"
+    "nama": "Kab. Lampung Timur",
+    "latitude": -5.33417,
+    "longitude": 105.18833
   },
   {
     "id": "18.08",
-    "nama": "Kab. Way Kanan"
+    "nama": "Kab. Way Kanan",
+    "latitude": -4.54500,
+    "longitude": 105.39833
   },
   {
     "id": "18.09",
-    "nama": "Kab. Pesawaran"
+    "nama": "Kab. Pesawaran",
+    "latitude": -5.10556,
+    "longitude": 105.23194
   },
   {
     "id": "18.10",
-    "nama": "Kab. Pringsewu"
+    "nama": "Kab. Pringsewu",
+    "latitude": -5.27806,
+    "longitude": 104.82306
   },
   {
     "id": "18.11",
-    "nama": "Kab. Mesuji"
+    "nama": "Kab. Mesuji",
+    "latitude": -4.83667,
+    "longitude": 105.55444
   },
   {
     "id": "18.12",
-    "nama": "Kab. Tulang Bawang Barat"
+    "nama": "Kab. Tulang Bawang Barat",
+    "latitude": -4.61667,
+    "longitude": 105.16667
   },
   {
     "id": "18.13",
-    "nama": "Kab. Pesisir Barat"
+    "nama": "Kab. Pesisir Barat",
+    "latitude": -6.16333,
+    "longitude": 103.87167
   },
   {
     "id": "18.71",
-    "nama": "Kota Bandar Lampung"
+    "nama": "Kota Bandar Lampung",
+    "latitude": -5.42600,
+    "longitude": 105.26500
   },
   {
     "id": "18.72",
-    "nama": "Kota Metro"
+    "nama": "Kota Metro",
+    "latitude": -5.11472,
+    "longitude": 104.63056
   }
 ]
