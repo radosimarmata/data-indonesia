@@ -1,46 +1,68 @@
 [
   {
     "id": "15.01",
-    "nama": "Kab. Kerinci"
+    "nama": "Kab. Kerinci",
+    "latitude": -1.7751,
+    "longitude": 101.6246
   },
   {
     "id": "15.02",
-    "nama": "Kab. Merangin"
+    "nama": "Kab. Merangin",
+    "latitude": -1.9018,
+    "longitude": 102.2522
   },
   {
     "id": "15.03",
-    "nama": "Kab. Sarolangun"
+    "nama": "Kab. Sarolangun",
+    "latitude": -1.3369,
+    "longitude": 102.2941
   },
   {
     "id": "15.04",
-    "nama": "Kab. Batanghari"
+    "nama": "Kab. Batanghari",
+    "latitude": -1.3256,
+    "longitude": 102.0817
   },
   {
     "id": "15.05",
-    "nama": "Kab. Muaro Jambi"
+    "nama": "Kab. Muaro Jambi",
+    "latitude": -1.5952,
+    "longitude": 103.5648
   },
   {
     "id": "15.06",
-    "nama": "Kab. Tanjung Jabung Barat"
+    "nama": "Kab. Tanjung Jabung Barat",
+    "latitude": -1.5514,
+    "longitude": 104.1777
   },
   {
     "id": "15.07",
-    "nama": "Kab. Tanjung Jabung Timur"
+    "nama": "Kab. Tanjung Jabung Timur",
+    "latitude": -1.3938,
+    "longitude": 104.4814
   },
   {
     "id": "15.08",
-    "nama": "Kab. Bungo"
+    "nama": "Kab. Bungo",
+    "latitude": -1.2115,
+    "longitude": 102.9300
   },
   {
     "id": "15.09",
-    "nama": "Kab. Tebo"
+    "nama": "Kab. Tebo",
+    "latitude": -1.4165,
+    "longitude": 102.3310
   },
   {
     "id": "15.71",
-    "nama": "Kota Jambi"
+    "nama": "Kota Jambi",
+    "latitude": -1.6074,
+    "longitude": 103.6143
   },
   {
     "id": "15.72",
-    "nama": "Kota Sungai Penuh"
+    "nama": "Kota Sungai Penuh",
+    "latitude": -2.0607,
+    "longitude": 101.7215
   }
 ]
