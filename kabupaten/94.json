@@ -1,34 +1,50 @@
 [
   {
     "id": "94.01",
-    "nama": "Kab. Nabire"
+    "nama": "Kab. Nabire",
+    "latitude": -3.36600,
+    "longitude": 135.49000
   },
   {
     "id": "94.02",
-    "nama": "Kab. Puncak Jaya"
+    "nama": "Kab. Puncak Jaya",
+    "latitude": -4.75000,
+    "longitude": 138.00000
   },
   {
     "id": "94.03",
-    "nama": "Kab. Paniai"
+    "nama": "Kab. Paniai",
+    "latitude": -4.83300,
+    "longitude": 135.75000
   },
   {
     "id": "94.04",
-    "nama": "Kab. Mimika"
+    "nama": "Kab. Mimika",
+    "latitude": -3.38300,
+    "longitude": 137.50000
   },
   {
     "id": "94.05",
-    "nama": "Kab. Puncak"
+    "nama": "Kab. Puncak",
+    "latitude": -4.75000,
+    "longitude": 138.00000
   },
   {
     "id": "94.06",
-    "nama": "Kab. Dogiyai"
+    "nama": "Kab. Dogiyai",
+    "latitude": -4.60000,
+    "longitude": 136.40000
   },
   {
     "id": "94.07",
-    "nama": "Kab. Intan Jaya"
+    "nama": "Kab. Intan Jaya",
+    "latitude": -3.90000,
+    "longitude": 137.60000
   },
   {
     "id": "94.08",
-    "nama": "Kab. Deiyai"
+    "nama": "Kab. Deiyai",
+    "latitude": -4.20000,
+    "longitude": 136.80000
   }
 ]
