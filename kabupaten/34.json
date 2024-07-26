@@ -1,22 +1,32 @@
 [
   {
     "id": "34.01",
-    "nama": "Kab. Kulon Progo"
+    "nama": "Kab. Kulon Progo",
+    "latitude": -7.78944,
+    "longitude": 110.13333
   },
   {
     "id": "34.02",
-    "nama": "Kab. Bantul"
+    "nama": "Kab. Bantul",
+    "latitude": -7.88333,
+    "longitude": 110.35000
   },
   {
     "id": "34.03",
-    "nama": "Kab. Gunungkidul"
+    "nama": "Kab. Gunungkidul",
+    "latitude": -8.08444,
+    "longitude": 110.53056
   },
   {
     "id": "34.04",
-    "nama": "Kab. Sleman"
+    "nama": "Kab. Sleman",
+    "latitude": -7.75000,
+    "longitude": 110.36667
   },
   {
     "id": "34.71",
-    "nama": "Kota Yogyakarta"
+    "nama": "Kota Yogyakarta",
+    "latitude": -7.79722,
+    "longitude": 110.36833
   }
 ]
