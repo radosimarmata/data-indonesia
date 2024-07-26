@@ -2,31 +2,31 @@
   {
     "id": "65.01",
     "nama": "Kab. Bulungan",
-    "latitude": 2.01200,
-    "longitude": 117.17400
+    "latitude": 2.9042476,
+    "longitude": 116.9852422
   },
   {
     "id": "65.02",
     "nama": "Kab. Malinau",
-    "latitude": 2.83500,
-    "longitude": 117.74700
+    "latitude": 3.584221,
+    "longitude": 116.647797
   },
   {
     "id": "65.03",
     "nama": "Kab. Nunukan",
-    "latitude": 4.12600,
-    "longitude": 117.80400
+    "latitude": 4.0609227,
+    "longitude": 117.666952
   },
   {
     "id": "65.04",
     "nama": "Kab. Tana Tidung",
-    "latitude": 2.88200,
-    "longitude": 117.68200
+    "latitude": 3.551869,
+    "longitude": 117.0794082
   },
   {
     "id": "65.71",
     "nama": "Kota Tarakan",
-    "latitude": 3.33100,
-    "longitude": 117.60800
+    "latitude": 3.3,
+    "longitude": 117.6333333
   }
 ]
