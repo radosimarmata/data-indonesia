@@ -1,26 +1,38 @@
 [
   {
     "id": "96.01",
-    "nama": "Kab. Sorong"
+    "nama": "Kab. Sorong",
+    "latitude": -0.88300,
+    "longitude": 131.25000
   },
   {
     "id": "96.04",
-    "nama": "Kab. Sorong Selatan"
+    "nama": "Kab. Sorong Selatan",
+    "latitude": -1.00000,
+    "longitude": 131.00000
   },
   {
     "id": "96.05",
-    "nama": "Kab. Raja Ampat"
+    "nama": "Kab. Raja Ampat",
+    "latitude": -0.23500,
+    "longitude": 130.20000
   },
   {
     "id": "96.09",
-    "nama": "Kab. Tambrauw"
+    "nama": "Kab. Tambrauw",
+    "latitude": -1.40000,
+    "longitude": 133.00000
   },
   {
     "id": "96.10",
-    "nama": "Kab. Maybrat"
+    "nama": "Kab. Maybrat",
+    "latitude": -1.08300,
+    "longitude": 134.08300
   },
   {
     "id": "96.71",
-    "nama": "Kota Sorong"
+    "nama": "Kota Sorong",
+    "latitude": -0.88300,
+    "longitude": 131.25000
   }
 ]
