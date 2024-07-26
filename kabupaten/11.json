@@ -14,8 +14,8 @@
   {
     "id": "11.03",
     "nama": "Kab. Aceh Timur",
-    "latitude": 4.6437,
-    "longitude": 97.8330
+    "latitude": 4.9271201,
+    "longitude": 97.7886196
   },
   {
     "id": "11.04",
@@ -26,8 +26,8 @@
   {
     "id": "11.05",
     "nama": "Kab. Aceh Barat",
-    "latitude": 4.4597,
-    "longitude": 95.6914
+    "latitude": 3.9692184,
+    "longitude": 96.6522179
   },
   {
     "id": "11.06",
@@ -38,19 +38,19 @@
   {
     "id": "11.07",
     "nama": "Kab. Pidie",
-    "latitude": 5.2401,
-    "longitude": 95.9506
+    "latitude": 3.7379565,
+    "longitude": 96.83204951398164
   },
   {
     "id": "11.08",
     "nama": "Kab. Aceh Utara",
-    "latitude": 5.0546,
-    "longitude": 97.2345
+    "latitude": 5.074680450000001,
+    "longitude": 97.30565875925245
   },
   {
     "id": "11.09",
     "nama": "Kab. Simeulue",
-    "latitude": 2.6250,
+    "latitude": 2.625,
     "longitude": 96.0833
   },
   {
@@ -62,14 +62,14 @@
   {
     "id": "11.11",
     "nama": "Kab. Bireuen",
-    "latitude": 5.2038,
-    "longitude": 96.7003
+    "latitude": -8.7365126,
+    "longitude": 115.5364
   },
   {
     "id": "11.12",
     "nama": "Kab. Aceh Barat Daya",
-    "latitude": 3.7858,
-    "longitude": 97.4827
+    "latitude": 3.9692184,
+    "longitude": 96.6522179
   },
   {
     "id": "11.13",
@@ -86,8 +86,8 @@
   {
     "id": "11.15",
     "nama": "Kab. Nagan Raya",
-    "latitude": 4.1174,
-    "longitude": 96.4486
+    "latitude": 3.9692184,
+    "longitude": 96.6522179
   },
   {
     "id": "11.16",
@@ -99,7 +99,7 @@
     "id": "11.17",
     "nama": "Kab. Bener Meriah",
     "latitude": 4.7451,
-    "longitude": 96.8710
+    "longitude": 96.871
   },
   {
     "id": "11.18",
@@ -110,31 +110,31 @@
   {
     "id": "11.71",
     "nama": "Kota Banda Aceh",
-    "latitude": 5.5483,
-    "longitude": 95.3238
+    "latitude": 5.5428575,
+    "longitude": 95.28737160151331
   },
   {
     "id": "11.72",
     "nama": "Kota Sabang",
-    "latitude": 5.8897,
-    "longitude": 95.3161
+    "latitude": -8.6722097,
+    "longitude": 116.1574
   },
   {
     "id": "11.73",
     "nama": "Kota Lhokseumawe",
-    "latitude": 5.1880,
-    "longitude": 97.1420
+    "latitude": 5.1842913,
+    "longitude": 97.1509798
   },
   {
     "id": "11.74",
     "nama": "Kota Langsa",
-    "latitude": 4.4701,
-    "longitude": 97.9656
+    "latitude": 4.47158865,
+    "longitude": 97.97375247454653
   },
   {
     "id": "11.75",
     "nama": "Kota Subulussalam",
-    "latitude": 2.6435,
-    "longitude": 98.0094
+    "latitude": -8.6813202,
+    "longitude": 116.2828
   }
 ]
