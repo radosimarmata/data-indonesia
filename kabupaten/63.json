@@ -1,54 +1,80 @@
 [
   {
     "id": "63.01",
-    "nama": "Kab. Tanah Laut"
+    "nama": "Kab. Tanah Laut",
+    "latitude": -3.29400,
+    "longitude": 114.90700
   },
   {
     "id": "63.02",
-    "nama": "Kab. Kotabaru"
+    "nama": "Kab. Kotabaru",
+    "latitude": -3.01600,
+    "longitude": 115.51200
   },
   {
     "id": "63.03",
-    "nama": "Kab. Banjar"
+    "nama": "Kab. Banjar",
+    "latitude": -3.28600,
+    "longitude": 114.75900
   },
   {
     "id": "63.04",
-    "nama": "Kab. Barito Kuala"
+    "nama": "Kab. Barito Kuala",
+    "latitude": -3.22600,
+    "longitude": 114.56000
   },
   {
     "id": "63.05",
-    "nama": "Kab. Tapin"
+    "nama": "Kab. Tapin",
+    "latitude": -3.11500,
+    "longitude": 115.04800
   },
   {
     "id": "63.06",
-    "nama": "Kab. Hulu Sungai Selatan"
+    "nama": "Kab. Hulu Sungai Selatan",
+    "latitude": -3.26500,
+    "longitude": 115.17600
   },
   {
     "id": "63.07",
-    "nama": "Kab. Hulu Sungai Tengah"
+    "nama": "Kab. Hulu Sungai Tengah",
+    "latitude": -2.91200,
+    "longitude": 115.24500
   },
   {
     "id": "63.08",
-    "nama": "Kab. Hulu Sungai Utara"
+    "nama": "Kab. Hulu Sungai Utara",
+    "latitude": -2.84600,
+    "longitude": 115.32800
   },
   {
     "id": "63.09",
-    "nama": "Kab. Tabalong"
+    "nama": "Kab. Tabalong",
+    "latitude": -1.88000,
+    "longitude": 115.23500
   },
   {
     "id": "63.10",
-    "nama": "Kab. Tanah Bumbu"
+    "nama": "Kab. Tanah Bumbu",
+    "latitude": -3.36000,
+    "longitude": 115.34500
   },
   {
     "id": "63.11",
-    "nama": "Kab. Balangan"
+    "nama": "Kab. Balangan",
+    "latitude": -2.79700,
+    "longitude": 115.33300
   },
   {
     "id": "63.71",
-    "nama": "Kota Banjarmasin"
+    "nama": "Kota Banjarmasin",
+    "latitude": -3.31900,
+    "longitude": 114.59000
   },
   {
     "id": "63.72",
-    "nama": "Kota Banjarbaru"
+    "nama": "Kota Banjarbaru",
+    "latitude": -3.38300,
+    "longitude": 114.84400
   }
 ]
