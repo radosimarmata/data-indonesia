@@ -2,145 +2,145 @@
   {
     "id": "73.01",
     "nama": "Kab. Kepulauan Selayar",
-    "latitude": -6.09000,
-    "longitude": 120.29000
+    "latitude": -6.269255331458526,
+    "longitude": 120.50244825650262
   },
   {
     "id": "73.02",
     "nama": "Kab. Bulukumba",
-    "latitude": -5.09500,
-    "longitude": 120.19300
+    "latitude": -5.4329368,
+    "longitude": 120.2051096
   },
   {
     "id": "73.03",
     "nama": "Kab. Bantaeng",
-    "latitude": -5.16500,
-    "longitude": 119.90600
+    "latitude": -5.5169316,
+    "longitude": 120.0202964
   },
   {
     "id": "73.04",
     "nama": "Kab. Jeneponto",
-    "latitude": -5.91100,
-    "longitude": 119.61500
+    "latitude": -5.554579,
+    "longitude": 119.6730939
   },
   {
     "id": "73.05",
     "nama": "Kab. Takalar",
-    "latitude": -5.22600,
-    "longitude": 119.28100
+    "latitude": -5.4162493,
+    "longitude": 119.4875668
   },
   {
     "id": "73.06",
     "nama": "Kab. Gowa",
-    "latitude": -5.10800,
-    "longitude": 119.68400
+    "latitude": -5.3102888,
+    "longitude": 119.742604
   },
   {
     "id": "73.07",
     "nama": "Kab. Sinjai",
-    "latitude": -5.41600,
-    "longitude": 120.25000
+    "latitude": -5.2171961,
+    "longitude": 120.112735
   },
   {
     "id": "73.08",
     "nama": "Kab. Bone",
-    "latitude": -4.58000,
-    "longitude": 120.04200
+    "latitude": -2.083333,
+    "longitude": 120.216667
   },
   {
     "id": "73.09",
     "nama": "Kab. Maros",
-    "latitude": -4.72900,
-    "longitude": 119.72100
+    "latitude": -4.94695,
+    "longitude": 119.578903
   },
   {
     "id": "73.10",
     "nama": "Kab. Pangkajene Kepulauan",
-    "latitude": -4.94900,
-    "longitude": 119.85200
+    "latitude": -4.8001988808022364,
+    "longitude": 119.55685032990307
   },
   {
     "id": "73.11",
     "nama": "Kab. Barru",
-    "latitude": -4.60400,
-    "longitude": 119.85100
+    "latitude": -4.4172651,
+    "longitude": 119.6730939
   },
   {
     "id": "73.12",
     "nama": "Kab. Soppeng",
-    "latitude": -4.64700,
-    "longitude": 120.27000
+    "latitude": -4.3518541,
+    "longitude": 119.9277947
   },
   {
     "id": "73.13",
     "nama": "Kab. Wajo",
-    "latitude": -4.57300,
-    "longitude": 120.37900
+    "latitude": -4.022229,
+    "longitude": 120.0665236
   },
   {
     "id": "73.14",
     "nama": "Kab. Sidenreng Rappang",
-    "latitude": -4.11300,
-    "longitude": 120.27700
+    "latitude": -3.7738981,
+    "longitude": 120.0202964
   },
   {
     "id": "73.15",
     "nama": "Kab. Pinrang",
-    "latitude": -4.07900,
-    "longitude": 119.78500
+    "latitude": -3.793071,
+    "longitude": 119.6408
   },
   {
     "id": "73.16",
     "nama": "Kab. Enrekang",
-    "latitude": -3.74700,
-    "longitude": 119.82300
+    "latitude": -3.563128,
+    "longitude": 119.7612
   },
   {
     "id": "73.17",
     "nama": "Kab. Luwu",
-    "latitude": -3.77900,
-    "longitude": 120.16000
+    "latitude": -3.3052214,
+    "longitude": 120.2512728
   },
   {
     "id": "73.18",
     "nama": "Kab. Tana Toraja",
-    "latitude": -2.96700,
-    "longitude": 119.86500
+    "latitude": -3.0753003,
+    "longitude": 119.742604
   },
   {
     "id": "73.22",
     "nama": "Kab. Luwu Utara",
-    "latitude": -2.60700,
-    "longitude": 120.43700
+    "latitude": -2.2690446,
+    "longitude": 119.9740534
   },
   {
     "id": "73.24",
     "nama": "Kab. Luwu Timur",
-    "latitude": -2.48500,
-    "longitude": 120.58100
+    "latitude": -2.5825518,
+    "longitude": 121.1710389
   },
   {
     "id": "73.26",
     "nama": "Kab. Toraja Utara",
-    "latitude": -2.72200,
-    "longitude": 119.82100
+    "latitude": -2.8621942,
+    "longitude": 119.8352303
   },
   {
     "id": "73.71",
     "nama": "Kota Makassar",
-    "latitude": -5.14700,
-    "longitude": 119.43200
+    "latitude": -5.1333333,
+    "longitude": 119.4166667
   },
   {
     "id": "73.72",
     "nama": "Kota Pare Pare",
-    "latitude": -4.05500,
-    "longitude": 119.63300
+    "latitude": -4.009492564893401,
+    "longitude": 119.62903497408347
   },
   {
     "id": "73.73",
     "nama": "Kota Palopo",
-    "latitude": -3.06600,
-    "longitude": 120.23200
+    "latitude": -3,
+    "longitude": 120.2
   }
 ]
