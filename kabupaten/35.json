@@ -1,154 +1,230 @@
 [
   {
     "id": "35.01",
-    "nama": "Kab. Pacitan"
+    "nama": "Kab. Pacitan",
+    "latitude": -8.21528,
+    "longitude": 111.03194
   },
   {
     "id": "35.02",
-    "nama": "Kab. Ponorogo"
+    "nama": "Kab. Ponorogo",
+    "latitude": -7.86667,
+    "longitude": 111.53333
   },
   {
     "id": "35.03",
-    "nama": "Kab. Trenggalek"
+    "nama": "Kab. Trenggalek",
+    "latitude": -8.16667,
+    "longitude": 111.61667
   },
   {
     "id": "35.04",
-    "nama": "Kab. Tulungagung"
+    "nama": "Kab. Tulungagung",
+    "latitude": -8.06667,
+    "longitude": 111.83333
   },
   {
     "id": "35.05",
-    "nama": "Kab. Blitar"
+    "nama": "Kab. Blitar",
+    "latitude": -8.11667,
+    "longitude": 112.16667
   },
   {
     "id": "35.06",
-    "nama": "Kab. Kediri"
+    "nama": "Kab. Kediri",
+    "latitude": -7.81667,
+    "longitude": 112.01667
   },
   {
     "id": "35.07",
-    "nama": "Kab. Malang"
+    "nama": "Kab. Malang",
+    "latitude": -8.16667,
+    "longitude": 112.63333
   },
   {
     "id": "35.08",
-    "nama": "Kab. Lumajang"
+    "nama": "Kab. Lumajang",
+    "latitude": -8.11667,
+    "longitude": 112.76667
   },
   {
     "id": "35.09",
-    "nama": "Kab. Jember"
+    "nama": "Kab. Jember",
+    "latitude": -8.16667,
+    "longitude": 113.71667
   },
   {
     "id": "35.10",
-    "nama": "Kab. Banyuwangi"
+    "nama": "Kab. Banyuwangi",
+    "latitude": -8.26667,
+    "longitude": 114.36667
   },
   {
     "id": "35.11",
-    "nama": "Kab. Bondowoso"
+    "nama": "Kab. Bondowoso",
+    "latitude": -8.16667,
+    "longitude": 114.08333
   },
   {
     "id": "35.12",
-    "nama": "Kab. Situbondo"
+    "nama": "Kab. Situbondo",
+    "latitude": -7.93333,
+    "longitude": 114.03333
   },
   {
     "id": "35.13",
-    "nama": "Kab. Probolinggo"
+    "nama": "Kab. Probolinggo",
+    "latitude": -7.76667,
+    "longitude": 113.21667
   },
   {
     "id": "35.14",
-    "nama": "Kab. Pasuruan"
+    "nama": "Kab. Pasuruan",
+    "latitude": -7.63333,
+    "longitude": 112.91667
   },
   {
     "id": "35.15",
-    "nama": "Kab. Sidoarjo"
+    "nama": "Kab. Sidoarjo",
+    "latitude": -7.46667,
+    "longitude": 112.71667
   },
   {
     "id": "35.16",
-    "nama": "Kab. Mojokerto"
+    "nama": "Kab. Mojokerto",
+    "latitude": -7.46667,
+    "longitude": 112.41667
   },
   {
     "id": "35.17",
-    "nama": "Kab. Jombang"
+    "nama": "Kab. Jombang",
+    "latitude": -7.56667,
+    "longitude": 112.16667
   },
   {
     "id": "35.18",
-    "nama": "Kab. Nganjuk"
+    "nama": "Kab. Nganjuk",
+    "latitude": -7.63333,
+    "longitude": 111.81667
   },
   {
     "id": "35.19",
-    "nama": "Kab. Madiun"
+    "nama": "Kab. Madiun",
+    "latitude": -7.63333,
+    "longitude": 111.53333
   },
   {
     "id": "35.20",
-    "nama": "Kab. Magetan"
+    "nama": "Kab. Magetan",
+    "latitude": -7.61667,
+    "longitude": 111.38333
   },
   {
     "id": "35.21",
-    "nama": "Kab. Ngawi"
+    "nama": "Kab. Ngawi",
+    "latitude": -7.38333,
+    "longitude": 111.43333
   },
   {
     "id": "35.22",
-    "nama": "Kab. Bojonegoro"
+    "nama": "Kab. Bojonegoro",
+    "latitude": -7.16667,
+    "longitude": 111.86667
   },
   {
     "id": "35.23",
-    "nama": "Kab. Tuban"
+    "nama": "Kab. Tuban",
+    "latitude": -6.96667,
+    "longitude": 112.08333
   },
   {
     "id": "35.24",
-    "nama": "Kab. Lamongan"
+    "nama": "Kab. Lamongan",
+    "latitude": -7.11667,
+    "longitude": 112.41667
   },
   {
     "id": "35.25",
-    "nama": "Kab. Gresik"
+    "nama": "Kab. Gresik",
+    "latitude": -7.01667,
+    "longitude": 112.63333
   },
   {
     "id": "35.26",
-    "nama": "Kab. Bangkalan"
+    "nama": "Kab. Bangkalan",
+    "latitude": -7.06667,
+    "longitude": 112.73333
   },
   {
     "id": "35.27",
-    "nama": "Kab. Sampang"
+    "nama": "Kab. Sampang",
+    "latitude": -7.20000,
+    "longitude": 113.23333
   },
   {
     "id": "35.28",
-    "nama": "Kab. Pamekasan"
+    "nama": "Kab. Pamekasan",
+    "latitude": -7.16667,
+    "longitude": 113.41667
   },
   {
     "id": "35.29",
-    "nama": "Kab. Sumenep"
+    "nama": "Kab. Sumenep",
+    "latitude": -7.03333,
+    "longitude": 113.86667
   },
   {
     "id": "35.71",
-    "nama": "Kota Kediri"
+    "nama": "Kota Kediri",
+    "latitude": -7.81667,
+    "longitude": 112.01667
   },
   {
     "id": "35.72",
-    "nama": "Kota Blitar"
+    "nama": "Kota Blitar",
+    "latitude": -8.11667,
+    "longitude": 112.16667
   },
   {
     "id": "35.73",
-    "nama": "Kota Malang"
+    "nama": "Kota Malang",
+    "latitude": -8.08583,
+    "longitude": 112.63278
   },
   {
     "id": "35.74",
-    "nama": "Kota Probolinggo"
+    "nama": "Kota Probolinggo",
+    "latitude": -7.76667,
+    "longitude": 113.21667
   },
   {
     "id": "35.75",
-    "nama": "Kota Pasuruan"
+    "nama": "Kota Pasuruan",
+    "latitude": -7.63333,
+    "longitude": 112.91667
   },
   {
     "id": "35.76",
-    "nama": "Kota Mojokerto"
+    "nama": "Kota Mojokerto",
+    "latitude": -7.46667,
+    "longitude": 112.41667
   },
   {
     "id": "35.77",
-    "nama": "Kota Madiun"
+    "nama": "Kota Madiun",
+    "latitude": -7.63333,
+    "longitude": 111.53333
   },
   {
     "id": "35.78",
-    "nama": "Kota Surabaya"
+    "nama": "Kota Surabaya",
+    "latitude": -7.25000,
+    "longitude": 112.75000
   },
   {
     "id": "35.79",
-    "nama": "Kota Batu"
+    "nama": "Kota Batu",
+    "latitude": -8.25000,
+    "longitude": 112.58333
   }
 ]
