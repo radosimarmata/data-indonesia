@@ -2,37 +2,37 @@
   {
     "id": "31.01",
     "nama": "Kab. Kepulauan Seribu",
-    "latitude": -5.75000,
-    "longitude": 106.58333
+    "latitude": -5.7985266,
+    "longitude": 106.5071982
   },
   {
     "id": "31.71",
     "nama": "Kota Jakarta Pusat",
-    "latitude": -6.20833,
-    "longitude": 106.84556
+    "latitude": -6.211544,
+    "longitude": 106.845172
   },
   {
     "id": "31.72",
     "nama": "Kota Jakarta Utara",
-    "latitude": -6.12806,
-    "longitude": 106.84972
+    "latitude": -6.211544,
+    "longitude": 106.845172
   },
   {
     "id": "31.73",
     "nama": "Kota Jakarta Barat",
-    "latitude": -6.17222,
-    "longitude": 106.74972
+    "latitude": -6.211544,
+    "longitude": 106.845172
   },
   {
     "id": "31.74",
     "nama": "Kota Jakarta Selatan",
-    "latitude": -6.30972,
-    "longitude": 106.82917
+    "latitude": -6.332973,
+    "longitude": 106.807915
   },
   {
     "id": "31.75",
     "nama": "Kota Jakarta Timur",
-    "latitude": -6.23611,
-    "longitude": 106.92222
+    "latitude": -6.211544,
+    "longitude": 106.845172
   }
 ]
