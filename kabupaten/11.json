@@ -2,139 +2,139 @@
   {
     "id": "11.01",
     "nama": "Kab. Aceh Selatan",
-    "latitude": 3.3538,
-    "longitude": 97.3597
+    "latitude": 3.3115056,
+    "longitude": 97.3516558
   },
   {
     "id": "11.02",
     "nama": "Kab. Aceh Tenggara",
-    "latitude": 3.4696,
-    "longitude": 97.6695
+    "latitude": 3.3088666,
+    "longitude": 97.6982272
   },
   {
     "id": "11.03",
     "nama": "Kab. Aceh Timur",
-    "latitude": 4.9271201,
-    "longitude": 97.7886196
+    "latitude": 5.255443,
+    "longitude": 95.9885456
   },
   {
     "id": "11.04",
     "nama": "Kab. Aceh Tengah",
-    "latitude": 4.4537,
-    "longitude": 96.8336
+    "latitude": 4.4482641,
+    "longitude": 96.8350999
   },
   {
     "id": "11.05",
     "nama": "Kab. Aceh Barat",
-    "latitude": 3.9692184,
-    "longitude": 96.6522179
+    "latitude": 4.4542745,
+    "longitude": 96.1526985
   },
   {
     "id": "11.06",
     "nama": "Kab. Aceh Besar",
-    "latitude": 5.4481,
-    "longitude": 95.6753
+    "latitude": 5.4529168,
+    "longitude": 95.4777811
   },
   {
     "id": "11.07",
     "nama": "Kab. Pidie",
-    "latitude": 3.7379565,
-    "longitude": 96.83204951398164
+    "latitude": 5.0742659,
+    "longitude": 95.940971
   },
   {
     "id": "11.08",
     "nama": "Kab. Aceh Utara",
-    "latitude": 5.074680450000001,
-    "longitude": 97.30565875925245
+    "latitude": 4.9786331,
+    "longitude": 97.2221421
   },
   {
     "id": "11.09",
     "nama": "Kab. Simeulue",
-    "latitude": 2.625,
-    "longitude": 96.0833
+    "latitude": 2.583333,
+    "longitude": 96.083333
   },
   {
     "id": "11.10",
     "nama": "Kab. Aceh Singkil",
-    "latitude": 2.4218,
-    "longitude": 97.9641
+    "latitude": 2.3589459,
+    "longitude": 97.87216
   },
   {
     "id": "11.11",
     "nama": "Kab. Bireuen",
-    "latitude": -8.7365126,
-    "longitude": 115.5364
+    "latitude": 5.18254,
+    "longitude": 96.89005
   },
   {
     "id": "11.12",
     "nama": "Kab. Aceh Barat Daya",
-    "latitude": 3.9692184,
-    "longitude": 96.6522179
+    "latitude": 3.0512643,
+    "longitude": 97.3368031
   },
   {
     "id": "11.13",
     "nama": "Kab. Gayo Lues",
-    "latitude": 3.7071,
-    "longitude": 97.3867
+    "latitude": 3.955165,
+    "longitude": 97.3516558
   },
   {
     "id": "11.14",
     "nama": "Kab. Aceh Jaya",
-    "latitude": 4.7333,
-    "longitude": 95.6167
+    "latitude": 4.7873684,
+    "longitude": 95.6457951
   },
   {
     "id": "11.15",
     "nama": "Kab. Nagan Raya",
-    "latitude": 3.9692184,
-    "longitude": 96.6522179
+    "latitude": 4.1248406,
+    "longitude": 96.4929797
   },
   {
     "id": "11.16",
     "nama": "Kab. Aceh Tamiang",
-    "latitude": 4.1637,
-    "longitude": 97.5686
+    "latitude": 4.2328871,
+    "longitude": 98.0028892
   },
   {
     "id": "11.17",
     "nama": "Kab. Bener Meriah",
-    "latitude": 4.7451,
-    "longitude": 96.871
+    "latitude": 4.7748348,
+    "longitude": 97.0068393
   },
   {
     "id": "11.18",
     "nama": "Kab. Pidie Jaya",
-    "latitude": 5.0753,
-    "longitude": 96.2176
+    "latitude": 5.1548063,
+    "longitude": 96.195132
   },
   {
     "id": "11.71",
     "nama": "Kota Banda Aceh",
-    "latitude": 5.5428575,
-    "longitude": 95.28737160151331
+    "latitude": 5.55,
+    "longitude": 95.3166667
   },
   {
     "id": "11.72",
     "nama": "Kota Sabang",
-    "latitude": -8.6722097,
-    "longitude": 116.1574
+    "latitude": 5.8946929,
+    "longitude": 95.3192982
   },
   {
     "id": "11.73",
     "nama": "Kota Lhokseumawe",
-    "latitude": 5.1842913,
-    "longitude": 97.1509798
+    "latitude": 5.1880556,
+    "longitude": 97.1402778
   },
   {
     "id": "11.74",
     "nama": "Kota Langsa",
-    "latitude": 4.47158865,
-    "longitude": 97.97375247454653
+    "latitude": 4.48,
+    "longitude": 97.9633333
   },
   {
     "id": "11.75",
     "nama": "Kota Subulussalam",
-    "latitude": -8.6813202,
-    "longitude": 116.2828
+    "latitude": 2.6449927,
+    "longitude": 98.0165205
   }
 ]
