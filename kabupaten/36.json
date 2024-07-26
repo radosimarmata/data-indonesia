@@ -1,34 +1,50 @@
 [
   {
     "id": "36.01",
-    "nama": "Kab. Pandeglang"
+    "nama": "Kab. Pandeglang",
+    "latitude": -6.60556,
+    "longitude": 106.10944
   },
   {
     "id": "36.02",
-    "nama": "Kab. Lebak"
+    "nama": "Kab. Lebak",
+    "latitude": -6.61000,
+    "longitude": 106.13417
   },
   {
     "id": "36.03",
-    "nama": "Kab. Tangerang"
+    "nama": "Kab. Tangerang",
+    "latitude": -6.17306,
+    "longitude": 106.63111
   },
   {
     "id": "36.04",
-    "nama": "Kab. Serang"
+    "nama": "Kab. Serang",
+    "latitude": -6.09778,
+    "longitude": 106.15806
   },
   {
     "id": "36.71",
-    "nama": "Kota Tangerang"
+    "nama": "Kota Tangerang",
+    "latitude": -6.17446,
+    "longitude": 106.63204
   },
   {
     "id": "36.72",
-    "nama": "Kota Cilegon"
+    "nama": "Kota Cilegon",
+    "latitude": -6.00222,
+    "longitude": 106.08417
   },
   {
     "id": "36.73",
-    "nama": "Kota Serang"
+    "nama": "Kota Serang",
+    "latitude": -6.11500,
+    "longitude": 106.15694
   },
   {
     "id": "36.74",
-    "nama": "Kota Tangerang Selatan"
+    "nama": "Kota Tangerang Selatan",
+    "latitude": -6.29694,
+    "longitude": 106.71333
   }
 ]
