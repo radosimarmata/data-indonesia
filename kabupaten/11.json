@@ -1,94 +1,140 @@
 [
   {
     "id": "11.01",
-    "nama": "Kab. Aceh Selatan"
+    "nama": "Kab. Aceh Selatan",
+    "latitude": 3.3538,
+    "longitude": 97.3597
   },
   {
     "id": "11.02",
-    "nama": "Kab. Aceh Tenggara"
+    "nama": "Kab. Aceh Tenggara",
+    "latitude": 3.4696,
+    "longitude": 97.6695
   },
   {
     "id": "11.03",
-    "nama": "Kab. Aceh Timur"
+    "nama": "Kab. Aceh Timur",
+    "latitude": 4.6437,
+    "longitude": 97.8330
   },
   {
     "id": "11.04",
-    "nama": "Kab. Aceh Tengah"
+    "nama": "Kab. Aceh Tengah",
+    "latitude": 4.4537,
+    "longitude": 96.8336
   },
   {
     "id": "11.05",
-    "nama": "Kab. Aceh Barat"
+    "nama": "Kab. Aceh Barat",
+    "latitude": 4.4597,
+    "longitude": 95.6914
   },
   {
     "id": "11.06",
-    "nama": "Kab. Aceh Besar"
+    "nama": "Kab. Aceh Besar",
+    "latitude": 5.4481,
+    "longitude": 95.6753
   },
   {
     "id": "11.07",
-    "nama": "Kab. Pidie"
+    "nama": "Kab. Pidie",
+    "latitude": 5.2401,
+    "longitude": 95.9506
   },
   {
     "id": "11.08",
-    "nama": "Kab. Aceh Utara"
+    "nama": "Kab. Aceh Utara",
+    "latitude": 5.0546,
+    "longitude": 97.2345
   },
   {
     "id": "11.09",
-    "nama": "Kab. Simeulue"
+    "nama": "Kab. Simeulue",
+    "latitude": 2.6250,
+    "longitude": 96.0833
   },
   {
     "id": "11.10",
-    "nama": "Kab. Aceh Singkil"
+    "nama": "Kab. Aceh Singkil",
+    "latitude": 2.4218,
+    "longitude": 97.9641
   },
   {
     "id": "11.11",
-    "nama": "Kab. Bireuen"
+    "nama": "Kab. Bireuen",
+    "latitude": 5.2038,
+    "longitude": 96.7003
   },
   {
     "id": "11.12",
-    "nama": "Kab. Aceh Barat Daya"
+    "nama": "Kab. Aceh Barat Daya",
+    "latitude": 3.7858,
+    "longitude": 97.4827
   },
   {
     "id": "11.13",
-    "nama": "Kab. Gayo Lues"
+    "nama": "Kab. Gayo Lues",
+    "latitude": 3.7071,
+    "longitude": 97.3867
   },
   {
     "id": "11.14",
-    "nama": "Kab. Aceh Jaya"
+    "nama": "Kab. Aceh Jaya",
+    "latitude": 4.7333,
+    "longitude": 95.6167
   },
   {
     "id": "11.15",
-    "nama": "Kab. Nagan Raya"
+    "nama": "Kab. Nagan Raya",
+    "latitude": 4.1174,
+    "longitude": 96.4486
   },
   {
     "id": "11.16",
-    "nama": "Kab. Aceh Tamiang"
+    "nama": "Kab. Aceh Tamiang",
+    "latitude": 4.1637,
+    "longitude": 97.5686
   },
   {
     "id": "11.17",
-    "nama": "Kab. Bener Meriah"
+    "nama": "Kab. Bener Meriah",
+    "latitude": 4.7451,
+    "longitude": 96.8710
   },
   {
     "id": "11.18",
-    "nama": "Kab. Pidie Jaya"
+    "nama": "Kab. Pidie Jaya",
+    "latitude": 5.0753,
+    "longitude": 96.2176
   },
   {
     "id": "11.71",
-    "nama": "Kota Banda Aceh"
+    "nama": "Kota Banda Aceh",
+    "latitude": 5.5483,
+    "longitude": 95.3238
   },
   {
     "id": "11.72",
-    "nama": "Kota Sabang"
+    "nama": "Kota Sabang",
+    "latitude": 5.8897,
+    "longitude": 95.3161
   },
   {
     "id": "11.73",
-    "nama": "Kota Lhokseumawe"
+    "nama": "Kota Lhokseumawe",
+    "latitude": 5.1880,
+    "longitude": 97.1420
   },
   {
     "id": "11.74",
-    "nama": "Kota Langsa"
+    "nama": "Kota Langsa",
+    "latitude": 4.4701,
+    "longitude": 97.9656
   },
   {
     "id": "11.75",
-    "nama": "Kota Subulussalam"
+    "nama": "Kota Subulussalam",
+    "latitude": 2.6435,
+    "longitude": 98.0094
   }
 ]
