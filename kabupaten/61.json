@@ -1,58 +1,86 @@
 [
   {
     "id": "61.01",
-    "nama": "Kab. Sambas"
+    "nama": "Kab. Sambas",
+    "latitude": 1.34200,
+    "longitude": 109.27900
   },
   {
     "id": "61.02",
-    "nama": "Kab. Mempawah"
+    "nama": "Kab. Mempawah",
+    "latitude": 0.57900,
+    "longitude": 109.27800
   },
   {
     "id": "61.03",
-    "nama": "Kab. Sanggau"
+    "nama": "Kab. Sanggau",
+    "latitude": -0.10300,
+    "longitude": 110.50100
   },
   {
     "id": "61.04",
-    "nama": "Kab. Ketapang"
+    "nama": "Kab. Ketapang",
+    "latitude": -1.37100,
+    "longitude": 109.48400
   },
   {
     "id": "61.05",
-    "nama": "Kab. Sintang"
+    "nama": "Kab. Sintang",
+    "latitude": -0.58600,
+    "longitude": 111.49700
   },
   {
     "id": "61.06",
-    "nama": "Kab. Kapuas Hulu"
+    "nama": "Kab. Kapuas Hulu",
+    "latitude": -0.42800,
+    "longitude": 112.93400
   },
   {
     "id": "61.07",
-    "nama": "Kab. Bengkayang"
+    "nama": "Kab. Bengkayang",
+    "latitude": 0.86500,
+    "longitude": 109.49600
   },
   {
     "id": "61.08",
-    "nama": "Kab. Landak"
+    "nama": "Kab. Landak",
+    "latitude": -0.34700,
+    "longitude": 109.66700
   },
   {
     "id": "61.09",
-    "nama": "Kab. Sekadau"
+    "nama": "Kab. Sekadau",
+    "latitude": -1.19100,
+    "longitude": 111.50500
   },
   {
     "id": "61.10",
-    "nama": "Kab. Melawi"
+    "nama": "Kab. Melawi",
+    "latitude": -0.74100,
+    "longitude": 111.32200
   },
   {
     "id": "61.11",
-    "nama": "Kab. Kayong Utara"
+    "nama": "Kab. Kayong Utara",
+    "latitude": -1.93200,
+    "longitude": 108.59400
   },
   {
     "id": "61.12",
-    "nama": "Kab. Kubu Raya"
+    "nama": "Kab. Kubu Raya",
+    "latitude": -0.28900,
+    "longitude": 109.36700
   },
   {
     "id": "61.71",
-    "nama": "Kota Pontianak"
+    "nama": "Kota Pontianak",
+    "latitude": -0.02600,
+    "longitude": 109.34200
   },
   {
     "id": "61.72",
-    "nama": "Kota Singkawang"
+    "nama": "Kota Singkawang",
+    "latitude": 1.26300,
+    "longitude": 109.61600
   }
 ]
