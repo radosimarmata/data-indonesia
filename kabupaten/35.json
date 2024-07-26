@@ -2,229 +2,229 @@
   {
     "id": "35.01",
     "nama": "Kab. Pacitan",
-    "latitude": -8.21528,
-    "longitude": 111.03194
+    "latitude": -8.204614,
+    "longitude": 111.08769
   },
   {
     "id": "35.02",
     "nama": "Kab. Ponorogo",
-    "latitude": -7.86667,
-    "longitude": 111.53333
+    "latitude": -7.867827,
+    "longitude": 111.466003
   },
   {
     "id": "35.03",
     "nama": "Kab. Trenggalek",
-    "latitude": -8.16667,
-    "longitude": 111.61667
+    "latitude": -8.05,
+    "longitude": 111.7166667
   },
   {
     "id": "35.04",
     "nama": "Kab. Tulungagung",
-    "latitude": -8.06667,
-    "longitude": 111.83333
+    "latitude": -8.0666667,
+    "longitude": 111.9
   },
   {
     "id": "35.05",
     "nama": "Kab. Blitar",
-    "latitude": -8.11667,
-    "longitude": 112.16667
+    "latitude": -8.1014419,
+    "longitude": 112.162762
   },
   {
     "id": "35.06",
     "nama": "Kab. Kediri",
-    "latitude": -7.81667,
-    "longitude": 112.01667
+    "latitude": -7.809356,
+    "longitude": 112.032356
   },
   {
     "id": "35.07",
     "nama": "Kab. Malang",
-    "latitude": -8.16667,
-    "longitude": 112.63333
+    "latitude": -8.0495643,
+    "longitude": 112.6884549
   },
   {
     "id": "35.08",
     "nama": "Kab. Lumajang",
-    "latitude": -8.11667,
-    "longitude": 112.76667
+    "latitude": -8.137022,
+    "longitude": 113.226601
   },
   {
     "id": "35.09",
     "nama": "Kab. Jember",
-    "latitude": -8.16667,
-    "longitude": 113.71667
+    "latitude": -8.172357,
+    "longitude": 113.700302
   },
   {
     "id": "35.10",
     "nama": "Kab. Banyuwangi",
-    "latitude": -8.26667,
-    "longitude": 114.36667
+    "latitude": -8.2186111,
+    "longitude": 114.3669444
   },
   {
     "id": "35.11",
     "nama": "Kab. Bondowoso",
-    "latitude": -8.16667,
-    "longitude": 114.08333
+    "latitude": -7.917704,
+    "longitude": 113.813483
   },
   {
     "id": "35.12",
     "nama": "Kab. Situbondo",
-    "latitude": -7.93333,
-    "longitude": 114.03333
+    "latitude": -7.702534,
+    "longitude": 113.955605
   },
   {
     "id": "35.13",
     "nama": "Kab. Probolinggo",
-    "latitude": -7.76667,
-    "longitude": 113.21667
+    "latitude": -7.753965,
+    "longitude": 113.210675
   },
   {
     "id": "35.14",
     "nama": "Kab. Pasuruan",
-    "latitude": -7.63333,
-    "longitude": 112.91667
+    "latitude": -6.8623098,
+    "longitude": 108.8001936
   },
   {
     "id": "35.15",
     "nama": "Kab. Sidoarjo",
-    "latitude": -7.46667,
-    "longitude": 112.71667
+    "latitude": -7.4530278,
+    "longitude": 112.7173389
   },
   {
     "id": "35.16",
     "nama": "Kab. Mojokerto",
-    "latitude": -7.46667,
-    "longitude": 112.41667
+    "latitude": -7.488075,
+    "longitude": 112.427027
   },
   {
     "id": "35.17",
     "nama": "Kab. Jombang",
-    "latitude": -7.56667,
-    "longitude": 112.16667
+    "latitude": -7.5468395,
+    "longitude": 112.2264794
   },
   {
     "id": "35.18",
     "nama": "Kab. Nganjuk",
-    "latitude": -7.63333,
-    "longitude": 111.81667
+    "latitude": -7.602932,
+    "longitude": 111.901808
   },
   {
     "id": "35.19",
     "nama": "Kab. Madiun",
-    "latitude": -7.63333,
-    "longitude": 111.53333
+    "latitude": -7.627753,
+    "longitude": 111.505483
   },
   {
     "id": "35.20",
     "nama": "Kab. Magetan",
-    "latitude": -7.61667,
-    "longitude": 111.38333
+    "latitude": -7.6493413,
+    "longitude": 111.3381593
   },
   {
     "id": "35.21",
     "nama": "Kab. Ngawi",
-    "latitude": -7.38333,
-    "longitude": 111.43333
+    "latitude": -7.38993,
+    "longitude": 111.46193
   },
   {
     "id": "35.22",
     "nama": "Kab. Bojonegoro",
-    "latitude": -7.16667,
-    "longitude": 111.86667
+    "latitude": 0.882681,
+    "longitude": 124.4669566
   },
   {
     "id": "35.23",
     "nama": "Kab. Tuban",
-    "latitude": -6.96667,
-    "longitude": 112.08333
+    "latitude": -8.7493146,
+    "longitude": 115.1711298
   },
   {
     "id": "35.24",
     "nama": "Kab. Lamongan",
-    "latitude": -7.11667,
-    "longitude": 112.41667
+    "latitude": -7.406153,
+    "longitude": 109.3946794
   },
   {
     "id": "35.25",
     "nama": "Kab. Gresik",
-    "latitude": -7.01667,
-    "longitude": 112.63333
+    "latitude": -7.15665,
+    "longitude": 112.6555
   },
   {
     "id": "35.26",
     "nama": "Kab. Bangkalan",
-    "latitude": -7.06667,
-    "longitude": 112.73333
+    "latitude": -7.0306912,
+    "longitude": 112.7450068
   },
   {
     "id": "35.27",
     "nama": "Kab. Sampang",
-    "latitude": -7.20000,
-    "longitude": 113.23333
+    "latitude": -7.5782556,
+    "longitude": 109.2058436
   },
   {
     "id": "35.28",
     "nama": "Kab. Pamekasan",
-    "latitude": -7.16667,
-    "longitude": 113.41667
+    "latitude": -7.1666667,
+    "longitude": 113.4666667
   },
   {
     "id": "35.29",
     "nama": "Kab. Sumenep",
-    "latitude": -7.03333,
-    "longitude": 113.86667
+    "latitude": -6.9253999,
+    "longitude": 113.9060624
   },
   {
     "id": "35.71",
     "nama": "Kota Kediri",
-    "latitude": -7.81667,
-    "longitude": 112.01667
+    "latitude": -7.816895,
+    "longitude": 112.011398
   },
   {
     "id": "35.72",
     "nama": "Kota Blitar",
-    "latitude": -8.11667,
-    "longitude": 112.16667
+    "latitude": -8.1,
+    "longitude": 112.15
   },
   {
     "id": "35.73",
     "nama": "Kota Malang",
-    "latitude": -8.08583,
-    "longitude": 112.63278
+    "latitude": -7.981894,
+    "longitude": 112.626503
   },
   {
     "id": "35.74",
     "nama": "Kota Probolinggo",
-    "latitude": -7.76667,
-    "longitude": 113.21667
+    "latitude": -7.756928,
+    "longitude": 113.211502
   },
   {
     "id": "35.75",
     "nama": "Kota Pasuruan",
-    "latitude": -7.63333,
-    "longitude": 112.91667
+    "latitude": -7.644872,
+    "longitude": 112.903297
   },
   {
     "id": "35.76",
     "nama": "Kota Mojokerto",
-    "latitude": -7.46667,
-    "longitude": 112.41667
+    "latitude": -7.4722222,
+    "longitude": 112.4336111
   },
   {
     "id": "35.77",
     "nama": "Kota Madiun",
-    "latitude": -7.63333,
-    "longitude": 111.53333
+    "latitude": -7.629714,
+    "longitude": 111.513702
   },
   {
     "id": "35.78",
     "nama": "Kota Surabaya",
-    "latitude": -7.25000,
-    "longitude": 112.75000
+    "latitude": -7.289166,
+    "longitude": 112.734398
   },
   {
     "id": "35.79",
     "nama": "Kota Batu",
-    "latitude": -8.25000,
-    "longitude": 112.58333
+    "latitude": -7.8671,
+    "longitude": 112.5239
   }
 ]
