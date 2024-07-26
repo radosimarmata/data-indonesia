@@ -1,98 +1,146 @@
 [
   {
     "id": "73.01",
-    "nama": "Kab. Kepulauan Selayar"
+    "nama": "Kab. Kepulauan Selayar",
+    "latitude": -6.09000,
+    "longitude": 120.29000
   },
   {
     "id": "73.02",
-    "nama": "Kab. Bulukumba"
+    "nama": "Kab. Bulukumba",
+    "latitude": -5.09500,
+    "longitude": 120.19300
   },
   {
     "id": "73.03",
-    "nama": "Kab. Bantaeng"
+    "nama": "Kab. Bantaeng",
+    "latitude": -5.16500,
+    "longitude": 119.90600
   },
   {
     "id": "73.04",
-    "nama": "Kab. Jeneponto"
+    "nama": "Kab. Jeneponto",
+    "latitude": -5.91100,
+    "longitude": 119.61500
   },
   {
     "id": "73.05",
-    "nama": "Kab. Takalar"
+    "nama": "Kab. Takalar",
+    "latitude": -5.22600,
+    "longitude": 119.28100
   },
   {
     "id": "73.06",
-    "nama": "Kab. Gowa"
+    "nama": "Kab. Gowa",
+    "latitude": -5.10800,
+    "longitude": 119.68400
   },
   {
     "id": "73.07",
-    "nama": "Kab. Sinjai"
+    "nama": "Kab. Sinjai",
+    "latitude": -5.41600,
+    "longitude": 120.25000
   },
   {
     "id": "73.08",
-    "nama": "Kab. Bone"
+    "nama": "Kab. Bone",
+    "latitude": -4.58000,
+    "longitude": 120.04200
   },
   {
     "id": "73.09",
-    "nama": "Kab. Maros"
+    "nama": "Kab. Maros",
+    "latitude": -4.72900,
+    "longitude": 119.72100
   },
   {
     "id": "73.10",
-    "nama": "Kab. Pangkajene Kepulauan"
+    "nama": "Kab. Pangkajene Kepulauan",
+    "latitude": -4.94900,
+    "longitude": 119.85200
   },
   {
     "id": "73.11",
-    "nama": "Kab. Barru"
+    "nama": "Kab. Barru",
+    "latitude": -4.60400,
+    "longitude": 119.85100
   },
   {
     "id": "73.12",
-    "nama": "Kab. Soppeng"
+    "nama": "Kab. Soppeng",
+    "latitude": -4.64700,
+    "longitude": 120.27000
   },
   {
     "id": "73.13",
-    "nama": "Kab. Wajo"
+    "nama": "Kab. Wajo",
+    "latitude": -4.57300,
+    "longitude": 120.37900
   },
   {
     "id": "73.14",
-    "nama": "Kab. Sidenreng Rappang"
+    "nama": "Kab. Sidenreng Rappang",
+    "latitude": -4.11300,
+    "longitude": 120.27700
   },
   {
     "id": "73.15",
-    "nama": "Kab. Pinrang"
+    "nama": "Kab. Pinrang",
+    "latitude": -4.07900,
+    "longitude": 119.78500
   },
   {
     "id": "73.16",
-    "nama": "Kab. Enrekang"
+    "nama": "Kab. Enrekang",
+    "latitude": -3.74700,
+    "longitude": 119.82300
   },
   {
     "id": "73.17",
-    "nama": "Kab. Luwu"
+    "nama": "Kab. Luwu",
+    "latitude": -3.77900,
+    "longitude": 120.16000
   },
   {
     "id": "73.18",
-    "nama": "Kab. Tana Toraja"
+    "nama": "Kab. Tana Toraja",
+    "latitude": -2.96700,
+    "longitude": 119.86500
   },
   {
     "id": "73.22",
-    "nama": "Kab. Luwu Utara"
+    "nama": "Kab. Luwu Utara",
+    "latitude": -2.60700,
+    "longitude": 120.43700
   },
   {
     "id": "73.24",
-    "nama": "Kab. Luwu Timur"
+    "nama": "Kab. Luwu Timur",
+    "latitude": -2.48500,
+    "longitude": 120.58100
   },
   {
     "id": "73.26",
-    "nama": "Kab. Toraja Utara"
+    "nama": "Kab. Toraja Utara",
+    "latitude": -2.72200,
+    "longitude": 119.82100
   },
   {
     "id": "73.71",
-    "nama": "Kota Makassar"
+    "nama": "Kota Makassar",
+    "latitude": -5.14700,
+    "longitude": 119.43200
   },
   {
     "id": "73.72",
-    "nama": "Kota Pare Pare"
+    "nama": "Kota Pare Pare",
+    "latitude": -4.05500,
+    "longitude": 119.63300
   },
   {
     "id": "73.73",
-    "nama": "Kota Palopo"
+    "nama": "Kota Palopo",
+    "latitude": -3.06600,
+    "longitude": 120.23200
   }
 ]
