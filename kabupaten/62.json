@@ -2,85 +2,85 @@
   {
     "id": "62.01",
     "nama": "Kab. Kotawaringin Barat",
-    "latitude": -2.72100,
-    "longitude": 111.40100
+    "latitude": -6.1961131,
+    "longitude": 106.8630174
   },
   {
     "id": "62.02",
     "nama": "Kab. Kotawaringin Timur",
-    "latitude": -2.22600,
-    "longitude": 111.43000
+    "latitude": -6.1952992,
+    "longitude": 106.8630737
   },
   {
     "id": "62.03",
     "nama": "Kab. Kapuas",
-    "latitude": -0.67700,
-    "longitude": 113.34600
+    "latitude": -0.0459972,
+    "longitude": 110.1313251
   },
   {
     "id": "62.04",
     "nama": "Kab. Barito Selatan",
-    "latitude": -1.14400,
-    "longitude": 114.26100
+    "latitude": -1.875943,
+    "longitude": 114.8092691
   },
   {
     "id": "62.05",
     "nama": "Kab. Barito Utara",
-    "latitude": -1.07800,
-    "longitude": 114.63800
+    "latitude": -0.9587136,
+    "longitude": 115.094045
   },
   {
     "id": "62.06",
     "nama": "Kab. Katingan",
-    "latitude": -1.04200,
-    "longitude": 113.08100
+    "latitude": -0.9758379,
+    "longitude": 112.8105512
   },
   {
     "id": "62.07",
     "nama": "Kab. Seruyan",
-    "latitude": -2.43800,
-    "longitude": 113.26300
+    "latitude": -3.0123467,
+    "longitude": 112.4291464
   },
   {
     "id": "62.08",
     "nama": "Kab. Sukamara",
-    "latitude": -1.79500,
-    "longitude": 113.40600
+    "latitude": -2.6267517,
+    "longitude": 111.2368084
   },
   {
     "id": "62.09",
     "nama": "Kab. Lamandau",
-    "latitude": -1.19500,
-    "longitude": 112.56100
+    "latitude": -1.9269166,
+    "longitude": 111.1891151
   },
   {
     "id": "62.10",
     "nama": "Kab. Gunung Mas",
-    "latitude": -0.47400,
-    "longitude": 113.04400
+    "latitude": -6.7052778,
+    "longitude": 106.9913889
   },
   {
     "id": "62.11",
     "nama": "Kab. Pulang Pisau",
-    "latitude": -1.36900,
-    "longitude": 113.59400
+    "latitude": -2.6849607,
+    "longitude": 113.9536466
   },
   {
     "id": "62.12",
     "nama": "Kab. Murung Raya",
-    "latitude": -1.78400,
-    "longitude": 115.45700
+    "latitude": -0.1362171,
+    "longitude": 114.3341432
   },
   {
     "id": "62.13",
     "nama": "Kab. Barito Timur",
-    "latitude": -0.78500,
-    "longitude": 114.67200
+    "latitude": -2.0123999,
+    "longitude": 115.188916
   },
   {
     "id": "62.71",
     "nama": "Kota Palangkaraya",
-    "latitude": -2.20800,
-    "longitude": 113.92100
+    "latitude": -2.215361677536278,
+    "longitude": 113.9140261658678
   }
 ]
