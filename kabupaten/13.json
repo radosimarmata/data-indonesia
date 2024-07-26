@@ -1,78 +1,116 @@
 [
   {
     "id": "13.01",
-    "nama": "Kab. Pesisir Selatan"
+    "nama": "Kab. Pesisir Selatan",
+    "latitude": -1.5424,
+    "longitude": 100.7498
   },
   {
     "id": "13.02",
-    "nama": "Kab. Solok"
+    "nama": "Kab. Solok",
+    "latitude": -0.8240,
+    "longitude": 100.6640
   },
   {
     "id": "13.03",
-    "nama": "Kab. Sijunjung"
+    "nama": "Kab. Sijunjung",
+    "latitude": -0.7111,
+    "longitude": 100.9521
   },
   {
     "id": "13.04",
-    "nama": "Kab. Tanah Datar"
+    "nama": "Kab. Tanah Datar",
+    "latitude": -0.4799,
+    "longitude": 100.5927
   },
   {
     "id": "13.05",
-    "nama": "Kab. Padang Pariaman"
+    "nama": "Kab. Padang Pariaman",
+    "latitude": -0.4770,
+    "longitude": 100.2935
   },
   {
     "id": "13.06",
-    "nama": "Kab. Agam"
+    "nama": "Kab. Agam",
+    "latitude": -0.2916,
+    "longitude": 100.1570
   },
   {
     "id": "13.07",
-    "nama": "Kab. Lima Puluh Kota"
+    "nama": "Kab. Lima Puluh Kota",
+    "latitude": -0.0242,
+    "longitude": 100.5692
   },
   {
     "id": "13.08",
-    "nama": "Kab. Pasaman"
+    "nama": "Kab. Pasaman",
+    "latitude": 0.1382,
+    "longitude": 99.9461
   },
   {
     "id": "13.09",
-    "nama": "Kab. Kepulauan Mentawai"
+    "nama": "Kab. Kepulauan Mentawai",
+    "latitude": -2.0469,
+    "longitude": 99.4127
   },
   {
     "id": "13.10",
-    "nama": "Kab. Dharmasraya"
+    "nama": "Kab. Dharmasraya",
+    "latitude": -1.0732,
+    "longitude": 101.6158
   },
   {
     "id": "13.11",
-    "nama": "Kab. Solok Selatan"
+    "nama": "Kab. Solok Selatan",
+    "latitude": -1.4847,
+    "longitude": 101.0792
   },
   {
     "id": "13.12",
-    "nama": "Kab. Pasaman Barat"
+    "nama": "Kab. Pasaman Barat",
+    "latitude": 0.1717,
+    "longitude": 99.5535
   },
   {
     "id": "13.71",
-    "nama": "Kota Padang"
+    "nama": "Kota Padang",
+    "latitude": -0.9471,
+    "longitude": 100.4172
   },
   {
     "id": "13.72",
-    "nama": "Kota Solok"
+    "nama": "Kota Solok",
+    "latitude": -0.7882,
+    "longitude": 100.6570
   },
   {
     "id": "13.73",
-    "nama": "Kota Sawahlunto"
+    "nama": "Kota Sawahlunto",
+    "latitude": -0.6773,
+    "longitude": 100.7834
   },
   {
     "id": "13.74",
-    "nama": "Kota Padang Panjang"
+    "nama": "Kota Padang Panjang",
+    "latitude": -0.4580,
+    "longitude": 100.3972
   },
   {
     "id": "13.75",
-    "nama": "Kota Bukittinggi"
+    "nama": "Kota Bukittinggi",
+    "latitude": -0.3054,
+    "longitude": 100.3692
   },
   {
     "id": "13.76",
-    "nama": "Kota Payakumbuh"
+    "nama": "Kota Payakumbuh",
+    "latitude": -0.2279,
+    "longitude": 100.6333
   },
   {
     "id": "13.77",
-    "nama": "Kota Pariaman"
+    "nama": "Kota Pariaman",
+    "latitude": -0.6285,
+    "longitude": 100.1214
   }
 ]
