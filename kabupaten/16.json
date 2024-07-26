@@ -1,70 +1,104 @@
 [
   {
     "id": "16.01",
-    "nama": "Kab. Ogan Komering Ulu"
+    "nama": "Kab. Ogan Komering Ulu",
+    "latitude": -4.0350,
+    "longitude": 104.7108
   },
   {
     "id": "16.02",
-    "nama": "Kab. Ogan Komering Ilir"
+    "nama": "Kab. Ogan Komering Ilir",
+    "latitude": -3.3558,
+    "longitude": 104.6740
   },
   {
     "id": "16.03",
-    "nama": "Kab. Muara Enim"
+    "nama": "Kab. Muara Enim",
+    "latitude": -3.4310,
+    "longitude": 104.1904
   },
   {
     "id": "16.04",
-    "nama": "Kab. Lahat"
+    "nama": "Kab. Lahat",
+    "latitude": -3.7388,
+    "longitude": 104.6554
   },
   {
     "id": "16.05",
-    "nama": "Kab. Musi Rawas"
+    "nama": "Kab. Musi Rawas",
+    "latitude": -3.2014,
+    "longitude": 102.7701
   },
   {
     "id": "16.06",
-    "nama": "Kab. Musi Banyuasin"
+    "nama": "Kab. Musi Banyuasin",
+    "latitude": -2.8316,
+    "longitude": 104.0299
   },
   {
     "id": "16.07",
-    "nama": "Kab. Banyuasin"
+    "nama": "Kab. Banyuasin",
+    "latitude": -2.8601,
+    "longitude": 104.7240
   },
   {
     "id": "16.08",
-    "nama": "Kab. Ogan Komering Ulu Timur"
+    "nama": "Kab. Ogan Komering Ulu Timur",
+    "latitude": -4.0067,
+    "longitude": 104.5477
   },
   {
     "id": "16.09",
-    "nama": "Kab. Ogan Komering Ulu Selatan"
+    "nama": "Kab. Ogan Komering Ulu Selatan",
+    "latitude": -4.3051,
+    "longitude": 104.5530
   },
   {
     "id": "16.10",
-    "nama": "Kab. Ogan Ilir"
+    "nama": "Kab. Ogan Ilir",
+    "latitude": -3.1233,
+    "longitude": 104.7818
   },
   {
     "id": "16.11",
-    "nama": "Kab. Empat Lawang"
+    "nama": "Kab. Empat Lawang",
+    "latitude": -3.2778,
+    "longitude": 102.8472
   },
   {
     "id": "16.12",
-    "nama": "Kab. Penukal Abab Lematang Ilir"
+    "nama": "Kab. Penukal Abab Lematang Ilir",
+    "latitude": -3.3634,
+    "longitude": 103.1551
   },
   {
     "id": "16.13",
-    "nama": "Kab. Musi Rawas Utara"
+    "nama": "Kab. Musi Rawas Utara",
+    "latitude": -3.0604,
+    "longitude": 102.5836
   },
   {
     "id": "16.71",
-    "nama": "Kota Palembang"
+    "nama": "Kota Palembang",
+    "latitude": -2.9916,
+    "longitude": 104.7560
   },
   {
     "id": "16.72",
-    "nama": "Kota Pagar Alam"
+    "nama": "Kota Pagar Alam",
+    "latitude": -4.0046,
+    "longitude": 104.2193
   },
   {
     "id": "16.73",
-    "nama": "Kota Lubuk Linggau"
+    "nama": "Kota Lubuk Linggau",
+    "latitude": -3.3074,
+    "longitude": 102.8591
   },
   {
     "id": "16.74",
-    "nama": "Kota Prabumulih"
+    "nama": "Kota Prabumulih",
+    "latitude": -3.4445,
+    "longitude": 104.1850
   }
 ]
