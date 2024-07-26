@@ -1,90 +1,134 @@
 [
   {
     "id": "53.01",
-    "nama": "Kab. Kupang"
+    "nama": "Kab. Kupang",
+    "latitude": -10.17750,
+    "longitude": 123.60722
   },
   {
     "id": "53.02",
-    "nama": "Kab. Timor Tengah Selatan"
+    "nama": "Kab. Timor Tengah Selatan",
+    "latitude": -10.51611,
+    "longitude": 124.57194
   },
   {
     "id": "53.03",
-    "nama": "Kab. Timor Tengah Utara"
+    "nama": "Kab. Timor Tengah Utara",
+    "latitude": -9.76944,
+    "longitude": 124.69917
   },
   {
     "id": "53.04",
-    "nama": "Kab. Belu"
+    "nama": "Kab. Belu",
+    "latitude": -9.22278,
+    "longitude": 124.37444
   },
   {
     "id": "53.05",
-    "nama": "Kab. Alor"
+    "nama": "Kab. Alor",
+    "latitude": -8.27417,
+    "longitude": 124.56444
   },
   {
     "id": "53.06",
-    "nama": "Kab. Flores Timur"
+    "nama": "Kab. Flores Timur",
+    "latitude": -8.34722,
+    "longitude": 123.28278
   },
   {
     "id": "53.07",
-    "nama": "Kab. Sikka"
+    "nama": "Kab. Sikka",
+    "latitude": -8.76194,
+    "longitude": 122.51444
   },
   {
     "id": "53.08",
-    "nama": "Kab. Ende"
+    "nama": "Kab. Ende",
+    "latitude": -8.84778,
+    "longitude": 121.65333
   },
   {
     "id": "53.09",
-    "nama": "Kab. Ngada"
+    "nama": "Kab. Ngada",
+    "latitude": -8.49694,
+    "longitude": 121.00278
   },
   {
     "id": "53.10",
-    "nama": "Kab. Manggarai"
+    "nama": "Kab. Manggarai",
+    "latitude": -8.68194,
+    "longitude": 120.39306
   },
   {
     "id": "53.11",
-    "nama": "Kab. Sumba Timur"
+    "nama": "Kab. Sumba Timur",
+    "latitude": -9.66500,
+    "longitude": 119.26417
   },
   {
     "id": "53.12",
-    "nama": "Kab. Sumba Barat"
+    "nama": "Kab. Sumba Barat",
+    "latitude": -9.84833,
+    "longitude": 119.00389
   },
   {
     "id": "53.13",
-    "nama": "Kab. Lembata"
+    "nama": "Kab. Lembata",
+    "latitude": -8.68694,
+    "longitude": 123.32278
   },
   {
     "id": "53.14",
-    "nama": "Kab. Rote Ndao"
+    "nama": "Kab. Rote Ndao",
+    "latitude": -10.76250,
+    "longitude": 123.14167
   },
   {
     "id": "53.15",
-    "nama": "Kab. Manggarai Barat"
+    "nama": "Kab. Manggarai Barat",
+    "latitude": -8.65194,
+    "longitude": 119.94250
   },
   {
     "id": "53.16",
-    "nama": "Kab. Nagekeo"
+    "nama": "Kab. Nagekeo",
+    "latitude": -8.79444,
+    "longitude": 121.21194
   },
   {
     "id": "53.17",
-    "nama": "Kab. Sumba Tengah"
+    "nama": "Kab. Sumba Tengah",
+    "latitude": -9.49083,
+    "longitude": 119.17306
   },
   {
     "id": "53.18",
-    "nama": "Kab. Sumba Barat Daya"
+    "nama": "Kab. Sumba Barat Daya",
+    "latitude": -9.49778,
+    "longitude": 119.16000
   },
   {
     "id": "53.19",
-    "nama": "Kab. Manggarai Timur"
+    "nama": "Kab. Manggarai Timur",
+    "latitude": -8.75889,
+    "longitude": 120.61056
   },
   {
     "id": "53.20",
-    "nama": "Kab. Sabu Raijua"
+    "nama": "Kab. Sabu Raijua",
+    "latitude": -10.04250,
+    "longitude": 122.44694
   },
   {
     "id": "53.21",
-    "nama": "Kab. Malaka"
+    "nama": "Kab. Malaka",
+    "latitude": -9.65944,
+    "longitude": 124.15167
   },
   {
     "id": "53.71",
-    "nama": "Kota Kupang"
+    "nama": "Kota Kupang",
+    "latitude": -10.17750,
+    "longitude": 123.60722
   }
 ]
