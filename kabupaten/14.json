@@ -2,73 +2,73 @@
   {
     "id": "14.01",
     "nama": "Kab. Kampar",
-    "latitude": -0.5410,
-    "longitude": 101.3890
+    "latitude": 0.146671,
+    "longitude": 101.1617356
   },
   {
     "id": "14.02",
     "nama": "Kab. Indragiri Hulu",
-    "latitude": 1.0846,
-    "longitude": 101.5353
+    "latitude": -0.7361181,
+    "longitude": 102.2547919
   },
   {
     "id": "14.03",
     "nama": "Kab. Bengkalis",
-    "latitude": 1.7880,
-    "longitude": 102.3225
+    "latitude": 1.4897222,
+    "longitude": 102.0797222
   },
   {
     "id": "14.04",
     "nama": "Kab. Indragiri Hilir",
-    "latitude": 1.5366,
-    "longitude": 103.4340
+    "latitude": -0.1456733,
+    "longitude": 102.989615
   },
   {
     "id": "14.05",
     "nama": "Kab. Pelalawan",
-    "latitude": 1.5366,
-    "longitude": 102.5092
+    "latitude": 0.441415,
+    "longitude": 102.088699
   },
   {
     "id": "14.06",
     "nama": "Kab. Rokan Hulu",
-    "latitude": 0.9084,
-    "longitude": 101.4200
+    "latitude": 1.0410934,
+    "longitude": 100.439656
   },
   {
     "id": "14.07",
     "nama": "Kab. Rokan Hilir",
-    "latitude": 1.1982,
-    "longitude": 102.3225
+    "latitude": 1.6463978,
+    "longitude": 100.8000051
   },
   {
     "id": "14.08",
     "nama": "Kab. Siak",
-    "latitude": 1.1281,
-    "longitude": 102.9081
+    "latitude": 0.8132823698699163,
+    "longitude": 101.7986921467759
   },
   {
     "id": "14.09",
     "nama": "Kab. Kuantan Singingi",
-    "latitude": 0.7153,
-    "longitude": 101.9324
+    "latitude": -0.4411596,
+    "longitude": 101.5248055
   },
   {
     "id": "14.10",
     "nama": "Kab. Kepulauan Meranti",
-    "latitude": 2.0630,
-    "longitude": 104.1586
+    "latitude": 0.9208765,
+    "longitude": 102.6675575
   },
   {
     "id": "14.71",
     "nama": "Kota Pekanbaru",
-    "latitude": 0.5200,
-    "longitude": 101.4476
+    "latitude": 0.5333333,
+    "longitude": 101.45
   },
   {
     "id": "14.72",
     "nama": "Kota Dumai",
-    "latitude": 1.6466,
-    "longitude": 101.4470
+    "latitude": 1.665742,
+    "longitude": 101.447601
   }
 ]
