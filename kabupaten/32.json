@@ -1,110 +1,164 @@
 [
   {
     "id": "32.01",
-    "nama": "Kab. Bogor"
+    "nama": "Kab. Bogor",
+    "latitude": -6.59428,
+    "longitude": 106.64179
   },
   {
     "id": "32.02",
-    "nama": "Kab. Sukabumi"
+    "nama": "Kab. Sukabumi",
+    "latitude": -6.91853,
+    "longitude": 106.92047
   },
   {
     "id": "32.03",
-    "nama": "Kab. Cianjur"
+    "nama": "Kab. Cianjur",
+    "latitude": -6.81667,
+    "longitude": 107.08333
   },
   {
     "id": "32.04",
-    "nama": "Kab. Bandung"
+    "nama": "Kab. Bandung",
+    "latitude": -7.00639,
+    "longitude": 107.64278
   },
   {
     "id": "32.05",
-    "nama": "Kab. Garut"
+    "nama": "Kab. Garut",
+    "latitude": -7.23000,
+    "longitude": 107.89667
   },
   {
     "id": "32.06",
-    "nama": "Kab. Tasikmalaya"
+    "nama": "Kab. Tasikmalaya",
+    "latitude": -7.33333,
+    "longitude": 108.21667
   },
   {
     "id": "32.07",
-    "nama": "Kab. Ciamis"
+    "nama": "Kab. Ciamis",
+    "latitude": -7.41444,
+    "longitude": 108.45889
   },
   {
     "id": "32.08",
-    "nama": "Kab. Kuningan"
+    "nama": "Kab. Kuningan",
+    "latitude": -6.96917,
+    "longitude": 108.46194
   },
   {
     "id": "32.09",
-    "nama": "Kab. Cirebon"
+    "nama": "Kab. Cirebon",
+    "latitude": -6.72500,
+    "longitude": 108.56667
   },
   {
     "id": "32.10",
-    "nama": "Kab. Majalengka"
+    "nama": "Kab. Majalengka",
+    "latitude": -6.81806,
+    "longitude": 108.53333
   },
   {
     "id": "32.11",
-    "nama": "Kab. Sumedang"
+    "nama": "Kab. Sumedang",
+    "latitude": -6.75639,
+    "longitude": 107.96722
   },
   {
     "id": "32.12",
-    "nama": "Kab. Indramayu"
+    "nama": "Kab. Indramayu",
+    "latitude": -6.43250,
+    "longitude": 108.32306
   },
   {
     "id": "32.13",
-    "nama": "Kab. Subang"
+    "nama": "Kab. Subang",
+    "latitude": -6.58333,
+    "longitude": 107.83333
   },
   {
     "id": "32.14",
-    "nama": "Kab. Purwakarta"
+    "nama": "Kab. Purwakarta",
+    "latitude": -6.58333,
+    "longitude": 107.41667
   },
   {
     "id": "32.15",
-    "nama": "Kab. Karawang"
+    "nama": "Kab. Karawang",
+    "latitude": -6.32500,
+    "longitude": 107.30833
   },
   {
     "id": "32.16",
-    "nama": "Kab. Bekasi"
+    "nama": "Kab. Bekasi",
+    "latitude": -6.23278,
+    "longitude": 107.00556
   },
   {
     "id": "32.17",
-    "nama": "Kab. Bandung Barat"
+    "nama": "Kab. Bandung Barat",
+    "latitude": -7.13500,
+    "longitude": 107.49722
   },
   {
     "id": "32.18",
-    "nama": "Kab. Pangandaran"
+    "nama": "Kab. Pangandaran",
+    "latitude": -7.69750,
+    "longitude": 108.70972
   },
   {
     "id": "32.71",
-    "nama": "Kota Bogor"
+    "nama": "Kota Bogor",
+    "latitude": -6.59428,
+    "longitude": 106.64179
   },
   {
     "id": "32.72",
-    "nama": "Kota Sukabumi"
+    "nama": "Kota Sukabumi",
+    "latitude": -6.91853,
+    "longitude": 106.92047
   },
   {
     "id": "32.73",
-    "nama": "Kota Bandung"
+    "nama": "Kota Bandung",
+    "latitude": -6.91474,
+    "longitude": 107.60981
   },
   {
     "id": "32.74",
-    "nama": "Kota Cirebon"
+    "nama": "Kota Cirebon",
+    "latitude": -6.72500,
+    "longitude": 108.56667
   },
   {
     "id": "32.75",
-    "nama": "Kota Bekasi"
+    "nama": "Kota Bekasi",
+    "latitude": -6.23278,
+    "longitude": 107.00556
   },
   {
     "id": "32.76",
-    "nama": "Kota Depok"
+    "nama": "Kota Depok",
+    "latitude": -6.39124,
+    "longitude": 106.82743
   },
   {
     "id": "32.77",
-    "nama": "Kota Cimahi"
+    "nama": "Kota Cimahi",
+    "latitude": -6.89750,
+    "longitude": 107.51306
   },
   {
     "id": "32.78",
-    "nama": "Kota Tasikmalaya"
+    "nama": "Kota Tasikmalaya",
+    "latitude": -7.33333,
+    "longitude": 108.21667
   },
   {
     "id": "32.79",
-    "nama": "Kota Banjar"
+    "nama": "Kota Banjar",
+    "latitude": -7.46667,
+    "longitude": 108.56667
   }
 ]
