@@ -2,37 +2,37 @@
   {
     "id": "76.01",
     "nama": "Kab. Pasangkayu (Mamuju Utara)",
-    "latitude": -1.48000,
-    "longitude": 118.69300
+    "latitude": -1.519444303445575,
+    "longitude": 119.51291398214404
   },
   {
     "id": "76.02",
     "nama": "Kab. Mamuju",
-    "latitude": -2.64600,
-    "longitude": 117.71100
+    "latitude": -2.7293364,
+    "longitude": 118.9295737
   },
   {
     "id": "76.03",
     "nama": "Kab. Mamasa",
-    "latitude": -2.55600,
-    "longitude": 119.22300
+    "latitude": -2.960135,
+    "longitude": 119.368202
   },
   {
     "id": "76.04",
     "nama": "Kab. Polewali Mandar",
-    "latitude": -3.01300,
-    "longitude": 118.92700
+    "latitude": -3.3419323,
+    "longitude": 119.1390642
   },
   {
     "id": "76.05",
     "nama": "Kab. Majene",
-    "latitude": -2.72600,
-    "longitude": 118.96300
+    "latitude": -3.0297251,
+    "longitude": 118.9062794
   },
   {
     "id": "76.06",
     "nama": "Kab. Mamuju Tengah",
-    "latitude": -2.52500,
-    "longitude": 117.81200
+    "latitude": -1.9330387823298012,
+    "longitude": 119.51144134492246
   }
 ]
