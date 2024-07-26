@@ -1,18 +1,26 @@
 [
   {
     "id": "93.01",
-    "nama": "Kab. Merauke"
+    "nama": "Kab. Merauke",
+    "latitude": -8.48300,
+    "longitude": 140.37000
   },
   {
     "id": "93.02",
-    "nama": "Kab. Boven Digoel"
+    "nama": "Kab. Boven Digoel",
+    "latitude": -6.31000,
+    "longitude": 140.08000
   },
   {
     "id": "93.03",
-    "nama": "Kab. Mappi"
+    "nama": "Kab. Mappi",
+    "latitude": -6.80000,
+    "longitude": 139.90000
   },
   {
     "id": "93.04",
-    "nama": "Kab. Asmat"
+    "nama": "Kab. Asmat",
+    "latitude": -5.41000,
+    "longitude": 139.65000
   }
 ]
