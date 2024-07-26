@@ -2,61 +2,61 @@
   {
     "id": "52.01",
     "nama": "Kab. Lombok Barat",
-    "latitude": -8.70917,
-    "longitude": 116.22222
+    "latitude": -8.6464599,
+    "longitude": 116.1123078
   },
   {
     "id": "52.02",
     "nama": "Kab. Lombok Tengah",
-    "latitude": -8.63750,
-    "longitude": 116.31806
+    "latitude": -8.694623,
+    "longitude": 116.2777073
   },
   {
     "id": "52.03",
     "nama": "Kab. Lombok Timur",
-    "latitude": -8.37306,
-    "longitude": 116.43111
+    "latitude": -8.5134471,
+    "longitude": 116.5609857
   },
   {
     "id": "52.04",
     "nama": "Kab. Sumbawa",
-    "latitude": -8.46139,
-    "longitude": 116.49306
+    "latitude": -8.6529334,
+    "longitude": 117.3616476
   },
   {
     "id": "52.05",
     "nama": "Kab. Dompu",
-    "latitude": -8.52056,
-    "longitude": 118.44111
+    "latitude": -8.4966318,
+    "longitude": 118.4747173
   },
   {
     "id": "52.06",
     "nama": "Kab. Bima",
-    "latitude": -8.45333,
-    "longitude": 118.74444
+    "latitude": -8.460566,
+    "longitude": 118.727402
   },
   {
     "id": "52.07",
     "nama": "Kab. Sumbawa Barat",
-    "latitude": -8.88194,
-    "longitude": 116.90750
+    "latitude": -8.9292907,
+    "longitude": 116.8910342
   },
   {
     "id": "52.08",
     "nama": "Kab. Lombok Utara",
-    "latitude": -8.43139,
-    "longitude": 116.23278
+    "latitude": -8.3739076,
+    "longitude": 116.2777073
   },
   {
     "id": "52.71",
     "nama": "Kota Mataram",
-    "latitude": -8.58306,
-    "longitude": 116.11444
+    "latitude": -8.5833333,
+    "longitude": 116.1166667
   },
   {
     "id": "52.72",
     "nama": "Kota Bima",
-    "latitude": -8.44889,
-    "longitude": 118.74306
+    "latitude": -8.460566,
+    "longitude": 118.727402
   }
 ]
