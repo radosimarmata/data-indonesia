@@ -2,91 +2,91 @@
   {
     "id": "18.01",
     "nama": "Kab. Lampung Selatan",
-    "latitude": -8.90000,
-    "longitude": 113.33333
+    "latitude": -5.5622614,
+    "longitude": 105.5474373
   },
   {
     "id": "18.02",
     "nama": "Kab. Lampung Tengah",
-    "latitude": -5.43500,
-    "longitude": 104.82167
+    "latitude": -4.8008086,
+    "longitude": 105.3131185
   },
   {
     "id": "18.03",
     "nama": "Kab. Lampung Utara",
-    "latitude": -5.45694,
-    "longitude": 104.88306
+    "latitude": -4.8133905,
+    "longitude": 104.7520939
   },
   {
     "id": "18.04",
     "nama": "Kab. Lampung Barat",
-    "latitude": -5.59556,
-    "longitude": 104.11611
+    "latitude": -5.1490396,
+    "longitude": 104.1930918
   },
   {
     "id": "18.05",
     "nama": "Kab. Tulang Bawang",
-    "latitude": -4.78278,
-    "longitude": 105.14444
+    "latitude": -4.317117366861521,
+    "longitude": 105.5007567743914
   },
   {
     "id": "18.06",
     "nama": "Kab. Tanggamus",
-    "latitude": -5.24667,
-    "longitude": 104.89306
+    "latitude": -5.3027489,
+    "longitude": 104.5655273
   },
   {
     "id": "18.07",
     "nama": "Kab. Lampung Timur",
-    "latitude": -5.33417,
-    "longitude": 105.18833
+    "latitude": -5.1134995,
+    "longitude": 105.6881788
   },
   {
     "id": "18.08",
     "nama": "Kab. Way Kanan",
-    "latitude": -4.54500,
-    "longitude": 105.39833
+    "latitude": -4.4963689,
+    "longitude": 104.5655273
   },
   {
     "id": "18.09",
     "nama": "Kab. Pesawaran",
-    "latitude": -5.10556,
-    "longitude": 105.23194
+    "latitude": -5.493245,
+    "longitude": 105.0791228
   },
   {
     "id": "18.10",
     "nama": "Kab. Pringsewu",
-    "latitude": -5.27806,
-    "longitude": 104.82306
+    "latitude": -5.3539884,
+    "longitude": 104.9622498
   },
   {
     "id": "18.11",
     "nama": "Kab. Mesuji",
-    "latitude": -4.83667,
-    "longitude": 105.55444
+    "latitude": -4.0044783,
+    "longitude": 105.3131185
   },
   {
     "id": "18.12",
     "nama": "Kab. Tulang Bawang Barat",
-    "latitude": -4.61667,
-    "longitude": 105.16667
+    "latitude": -4.5255887092997105,
+    "longitude": 105.07912865530403
   },
   {
     "id": "18.13",
     "nama": "Kab. Pesisir Barat",
-    "latitude": -6.16333,
-    "longitude": 103.87167
+    "latitude": -5.292149706393392,
+    "longitude": 104.12349651466909
   },
   {
     "id": "18.71",
     "nama": "Kota Bandar Lampung",
-    "latitude": -5.42600,
-    "longitude": 105.26500
+    "latitude": -5.45,
+    "longitude": 105.2666667
   },
   {
     "id": "18.72",
     "nama": "Kota Metro",
-    "latitude": -5.11472,
-    "longitude": 104.63056
+    "latitude": -5.1166667,
+    "longitude": 105.3
   }
 ]
