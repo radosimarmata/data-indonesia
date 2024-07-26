@@ -2,55 +2,55 @@
   {
     "id": "51.01",
     "nama": "Kab. Jembrana",
-    "latitude": -8.18944,
-    "longitude": 114.46833
+    "latitude": -8.361852,
+    "longitude": 114.6418
   },
   {
     "id": "51.02",
     "nama": "Kab. Tabanan",
-    "latitude": -8.48917,
-    "longitude": 115.22889
+    "latitude": -8.544516,
+    "longitude": 115.119797
   },
   {
     "id": "51.03",
     "nama": "Kab. Badung",
-    "latitude": -8.57722,
-    "longitude": 115.22389
+    "latitude": -8.5819296,
+    "longitude": 115.1770586
   },
   {
     "id": "51.04",
     "nama": "Kab. Gianyar",
-    "latitude": -8.52417,
-    "longitude": 115.26528
+    "latitude": -8.544185,
+    "longitude": 115.3255
   },
   {
     "id": "51.05",
     "nama": "Kab. Klungkung",
-    "latitude": -8.51444,
-    "longitude": 115.37306
+    "latitude": -8.5389222,
+    "longitude": 115.4045111
   },
   {
     "id": "51.06",
     "nama": "Kab. Bangli",
-    "latitude": -8.40306,
-    "longitude": 115.27972
+    "latitude": -8.454303,
+    "longitude": 115.354897
   },
   {
     "id": "51.07",
     "nama": "Kab. Karangasem",
-    "latitude": -8.46333,
-    "longitude": 115.61722
+    "latitude": -8.34616293355035,
+    "longitude": 115.52069985717118
   },
   {
     "id": "51.08",
     "nama": "Kab. Buleleng",
-    "latitude": -8.12694,
-    "longitude": 115.08833
+    "latitude": -8.113831,
+    "longitude": 115.126999
   },
   {
     "id": "51.71",
     "nama": "Kota Denpasar",
-    "latitude": -8.65000,
-    "longitude": 115.21667
+    "latitude": -8.65629,
+    "longitude": 115.222099
   }
 ]
