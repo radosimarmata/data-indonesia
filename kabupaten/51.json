@@ -1,38 +1,56 @@
 [
   {
     "id": "51.01",
-    "nama": "Kab. Jembrana"
+    "nama": "Kab. Jembrana",
+    "latitude": -8.18944,
+    "longitude": 114.46833
   },
   {
     "id": "51.02",
-    "nama": "Kab. Tabanan"
+    "nama": "Kab. Tabanan",
+    "latitude": -8.48917,
+    "longitude": 115.22889
   },
   {
     "id": "51.03",
-    "nama": "Kab. Badung"
+    "nama": "Kab. Badung",
+    "latitude": -8.57722,
+    "longitude": 115.22389
   },
   {
     "id": "51.04",
-    "nama": "Kab. Gianyar"
+    "nama": "Kab. Gianyar",
+    "latitude": -8.52417,
+    "longitude": 115.26528
   },
   {
     "id": "51.05",
-    "nama": "Kab. Klungkung"
+    "nama": "Kab. Klungkung",
+    "latitude": -8.51444,
+    "longitude": 115.37306
   },
   {
     "id": "51.06",
-    "nama": "Kab. Bangli"
+    "nama": "Kab. Bangli",
+    "latitude": -8.40306,
+    "longitude": 115.27972
   },
   {
     "id": "51.07",
-    "nama": "Kab. Karangasem"
+    "nama": "Kab. Karangasem",
+    "latitude": -8.46333,
+    "longitude": 115.61722
   },
   {
     "id": "51.08",
-    "nama": "Kab. Buleleng"
+    "nama": "Kab. Buleleng",
+    "latitude": -8.12694,
+    "longitude": 115.08833
   },
   {
     "id": "51.71",
-    "nama": "Kota Denpasar"
+    "nama": "Kota Denpasar",
+    "latitude": -8.65000,
+    "longitude": 115.21667
   }
 ]
