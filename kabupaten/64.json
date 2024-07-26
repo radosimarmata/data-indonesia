@@ -1,42 +1,62 @@
 [
   {
     "id": "64.01",
-    "nama": "Kab. Paser"
+    "nama": "Kab. Paser",
+    "latitude": -1.17800,
+    "longitude": 115.16900
   },
   {
     "id": "64.02",
-    "nama": "Kab. Kutai Kartanegara"
+    "nama": "Kab. Kutai Kartanegara",
+    "latitude": -1.05900,
+    "longitude": 116.57500
   },
   {
     "id": "64.03",
-    "nama": "Kab. Berau"
+    "nama": "Kab. Berau",
+    "latitude": -2.15000,
+    "longitude": 117.40000
   },
   {
     "id": "64.07",
-    "nama": "Kab. Kutai Barat"
+    "nama": "Kab. Kutai Barat",
+    "latitude": -1.80000,
+    "longitude": 115.54000
   },
   {
     "id": "64.08",
-    "nama": "Kab. Kutai Timur"
+    "nama": "Kab. Kutai Timur",
+    "latitude": -1.35700,
+    "longitude": 117.25800
   },
   {
     "id": "64.09",
-    "nama": "Kab. Penajam Paser Utara"
+    "nama": "Kab. Penajam Paser Utara",
+    "latitude": -1.12700,
+    "longitude": 116.99000
   },
   {
     "id": "64.11",
-    "nama": "Kab. Mahakam Ulu"
+    "nama": "Kab. Mahakam Ulu",
+    "latitude": -1.91000,
+    "longitude": 137.04000
   },
   {
     "id": "64.71",
-    "nama": "Kota Balikpapan"
+    "nama": "Kota Balikpapan",
+    "latitude": -1.25900,
+    "longitude": 116.89100
   },
   {
     "id": "64.72",
-    "nama": "Kota Samarinda"
+    "nama": "Kota Samarinda",
+    "latitude": -0.50200,
+    "longitude": 117.15000
   },
   {
     "id": "64.74",
-    "nama": "Kota Bontang"
+    "nama": "Kota Bontang",
+    "latitude": -0.13300,
+    "longitude": 117.47100
   }
 ]
