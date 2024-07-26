@@ -1,50 +1,74 @@
 [
   {
     "id": "14.01",
-    "nama": "Kab. Kampar"
+    "nama": "Kab. Kampar",
+    "latitude": -0.5410,
+    "longitude": 101.3890
   },
   {
     "id": "14.02",
-    "nama": "Kab. Indragiri Hulu"
+    "nama": "Kab. Indragiri Hulu",
+    "latitude": 1.0846,
+    "longitude": 101.5353
   },
   {
     "id": "14.03",
-    "nama": "Kab. Bengkalis"
+    "nama": "Kab. Bengkalis",
+    "latitude": 1.7880,
+    "longitude": 102.3225
   },
   {
     "id": "14.04",
-    "nama": "Kab. Indragiri Hilir"
+    "nama": "Kab. Indragiri Hilir",
+    "latitude": 1.5366,
+    "longitude": 103.4340
   },
   {
     "id": "14.05",
-    "nama": "Kab. Pelalawan"
+    "nama": "Kab. Pelalawan",
+    "latitude": 1.5366,
+    "longitude": 102.5092
   },
   {
     "id": "14.06",
-    "nama": "Kab. Rokan Hulu"
+    "nama": "Kab. Rokan Hulu",
+    "latitude": 0.9084,
+    "longitude": 101.4200
   },
   {
     "id": "14.07",
-    "nama": "Kab. Rokan Hilir"
+    "nama": "Kab. Rokan Hilir",
+    "latitude": 1.1982,
+    "longitude": 102.3225
   },
   {
     "id": "14.08",
-    "nama": "Kab. Siak"
+    "nama": "Kab. Siak",
+    "latitude": 1.1281,
+    "longitude": 102.9081
   },
   {
     "id": "14.09",
-    "nama": "Kab. Kuantan Singingi"
+    "nama": "Kab. Kuantan Singingi",
+    "latitude": 0.7153,
+    "longitude": 101.9324
   },
   {
     "id": "14.10",
-    "nama": "Kab. Kepulauan Meranti"
+    "nama": "Kab. Kepulauan Meranti",
+    "latitude": 2.0630,
+    "longitude": 104.1586
   },
   {
     "id": "14.71",
-    "nama": "Kota Pekanbaru"
+    "nama": "Kota Pekanbaru",
+    "latitude": 0.5200,
+    "longitude": 101.4476
   },
   {
     "id": "14.72",
-    "nama": "Kota Dumai"
+    "nama": "Kota Dumai",
+    "latitude": 1.6466,
+    "longitude": 101.4470
   }
 ]
