@@ -2,43 +2,43 @@
   {
     "id": "21.01",
     "nama": "Kab. Bintan",
-    "latitude": 1.23000,
-    "longitude": 104.40000
+    "latitude": 1.0619173,
+    "longitude": 104.5189214
   },
   {
     "id": "21.02",
     "nama": "Kab. Karimun",
-    "latitude": 0.92000,
-    "longitude": 102.77333
+    "latitude": 1.05,
+    "longitude": 103.3666667
   },
   {
     "id": "21.03",
     "nama": "Kab. Natuna",
-    "latitude": 3.88333,
-    "longitude": 108.58333
+    "latitude": 3.9329945,
+    "longitude": 108.1812242
   },
   {
     "id": "21.04",
     "nama": "Kab. Lingga",
-    "latitude": 2.73278,
-    "longitude": 104.27833
+    "latitude": -0.1627686,
+    "longitude": 104.6354631
   },
   {
     "id": "21.05",
     "nama": "Kab. Kepulauan Anambas",
-    "latitude": 3.50944,
-    "longitude": 106.55694
+    "latitude": 3.1055863710329006,
+    "longitude": 105.65373202461032
   },
   {
     "id": "21.71",
     "nama": "Kota Batam",
-    "latitude": 1.05000,
-    "longitude": 104.01667
+    "latitude": 1.0456264,
+    "longitude": 104.0304535
   },
   {
     "id": "21.72",
     "nama": "Kota Tanjung Pinang",
-    "latitude": 0.93056,
-    "longitude": 104.45139
+    "latitude": 0.9179205,
+    "longitude": 104.446464
   }
 ]
