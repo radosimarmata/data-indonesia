@@ -1,70 +1,104 @@
 [
   {
     "id": "74.01",
-    "nama": "Kab. Kolaka"
+    "nama": "Kab. Kolaka",
+    "latitude": -4.01400,
+    "longitude": 121.42500
   },
   {
     "id": "74.02",
-    "nama": "Kab. Konawe"
+    "nama": "Kab. Konawe",
+    "latitude": -3.98000,
+    "longitude": 122.39800
   },
   {
     "id": "74.03",
-    "nama": "Kab. Muna"
+    "nama": "Kab. Muna",
+    "latitude": -4.02900,
+    "longitude": 122.07500
   },
   {
     "id": "74.04",
-    "nama": "Kab. Buton"
+    "nama": "Kab. Buton",
+    "latitude": -5.02700,
+    "longitude": 122.43600
   },
   {
     "id": "74.05",
-    "nama": "Kab. Konawe Selatan"
+    "nama": "Kab. Konawe Selatan",
+    "latitude": -3.97600,
+    "longitude": 121.97100
   },
   {
     "id": "74.06",
-    "nama": "Kab. Bombana"
+    "nama": "Kab. Bombana",
+    "latitude": -4.28200,
+    "longitude": 121.71600
   },
   {
     "id": "74.07",
-    "nama": "Kab. Wakatobi"
+    "nama": "Kab. Wakatobi",
+    "latitude": -5.85500,
+    "longitude": 123.48900
   },
   {
     "id": "74.08",
-    "nama": "Kab. Kolaka Utara"
+    "nama": "Kab. Kolaka Utara",
+    "latitude": -4.74000,
+    "longitude": 121.70600
   },
   {
     "id": "74.09",
-    "nama": "Kab. Konawe Utara"
+    "nama": "Kab. Konawe Utara",
+    "latitude": -3.96000,
+    "longitude": 122.12400
   },
   {
     "id": "74.10",
-    "nama": "Kab. Buton Utara"
+    "nama": "Kab. Buton Utara",
+    "latitude": -5.52300,
+    "longitude": 122.55000
   },
   {
     "id": "74.11",
-    "nama": "Kab. Kolaka Timur"
+    "nama": "Kab. Kolaka Timur",
+    "latitude": -4.23800,
+    "longitude": 121.71100
   },
   {
     "id": "74.12",
-    "nama": "Kab. Konawe Kepulauan"
+    "nama": "Kab. Konawe Kepulauan",
+    "latitude": -4.66000,
+    "longitude": 123.36100
   },
   {
     "id": "74.13",
-    "nama": "Kab. Muna Barat"
+    "nama": "Kab. Muna Barat",
+    "latitude": -4.19500,
+    "longitude": 122.34200
   },
   {
     "id": "74.14",
-    "nama": "Kab. Buton Tengah"
+    "nama": "Kab. Buton Tengah",
+    "latitude": -5.37300,
+    "longitude": 122.31500
   },
   {
     "id": "74.15",
-    "nama": "Kab. Buton Selatan"
+    "nama": "Kab. Buton Selatan",
+    "latitude": -5.76600,
+    "longitude": 122.59800
   },
   {
     "id": "74.71",
-    "nama": "Kota Kendari"
+    "nama": "Kota Kendari",
+    "latitude": -3.95700,
+    "longitude": 122.53900
   },
   {
     "id": "74.72",
-    "nama": "Kota Bau Bau"
+    "nama": "Kota Bau Bau",
+    "latitude": -5.46300,
+    "longitude": 122.58600
   }
 ]
