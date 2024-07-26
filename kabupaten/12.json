@@ -1,134 +1,200 @@
 [
   {
     "id": "12.01",
-    "nama": "Kab. Tapanuli Tengah"
+    "nama": "Kab. Tapanuli Tengah",
+    "latitude": 1.8571,
+    "longitude": 98.6559
   },
   {
     "id": "12.02",
-    "nama": "Kab. Tapanuli Utara"
+    "nama": "Kab. Tapanuli Utara",
+    "latitude": 2.0458,
+    "longitude": 99.0515
   },
   {
     "id": "12.03",
-    "nama": "Kab. Tapanuli Selatan"
+    "nama": "Kab. Tapanuli Selatan",
+    "latitude": 1.5837,
+    "longitude": 99.2737
   },
   {
     "id": "12.04",
-    "nama": "Kab. Nias"
+    "nama": "Kab. Nias",
+    "latitude": 1.0528,
+    "longitude": 97.5481
   },
   {
     "id": "12.05",
-    "nama": "Kab. Langkat"
+    "nama": "Kab. Langkat",
+    "latitude": 3.8653,
+    "longitude": 98.3805
   },
   {
     "id": "12.06",
-    "nama": "Kab. Karo"
+    "nama": "Kab. Karo",
+    "latitude": 3.0976,
+    "longitude": 98.4908
   },
   {
     "id": "12.07",
-    "nama": "Kab. Deli Serdang"
+    "nama": "Kab. Deli Serdang",
+    "latitude": 3.4548,
+    "longitude": 98.7586
   },
   {
     "id": "12.08",
-    "nama": "Kab. Simalungun"
+    "nama": "Kab. Simalungun",
+    "latitude": 2.9363,
+    "longitude": 99.0626
   },
   {
     "id": "12.09",
-    "nama": "Kab. Asahan"
+    "nama": "Kab. Asahan",
+    "latitude": 2.9671,
+    "longitude": 99.6168
   },
   {
     "id": "12.10",
-    "nama": "Kab. Labuhanbatu"
+    "nama": "Kab. Labuhanbatu",
+    "latitude": 2.2092,
+    "longitude": 99.8287
   },
   {
     "id": "12.11",
-    "nama": "Kab. Dairi"
+    "nama": "Kab. Dairi",
+    "latitude": 2.8834,
+    "longitude": 98.2637
   },
   {
     "id": "12.12",
-    "nama": "Kab. Toba"
+    "nama": "Kab. Toba",
+    "latitude": 2.3431,
+    "longitude": 99.1707
   },
   {
     "id": "12.13",
-    "nama": "Kab. Mandailing Natal"
+    "nama": "Kab. Mandailing Natal",
+    "latitude": 0.8160,
+    "longitude": 99.2540
   },
   {
     "id": "12.14",
-    "nama": "Kab. Nias Selatan"
+    "nama": "Kab. Nias Selatan",
+    "latitude": 0.8663,
+    "longitude": 97.5351
   },
   {
     "id": "12.15",
-    "nama": "Kab. Pakpak Bharat"
+    "nama": "Kab. Pakpak Bharat",
+    "latitude": 2.4911,
+    "longitude": 98.2516
   },
   {
     "id": "12.16",
-    "nama": "Kab. Humbang Hasundutan"
+    "nama": "Kab. Humbang Hasundutan",
+    "latitude": 2.1903,
+    "longitude": 98.6159
   },
   {
     "id": "12.17",
-    "nama": "Kab. Samosir"
+    "nama": "Kab. Samosir",
+    "latitude": 2.6423,
+    "longitude": 98.8820
   },
   {
     "id": "12.18",
-    "nama": "Kab. Serdang Bedagai"
+    "nama": "Kab. Serdang Bedagai",
+    "latitude": 3.3366,
+    "longitude": 99.0682
   },
   {
     "id": "12.19",
-    "nama": "Kab. Batu Bara"
+    "nama": "Kab. Batu Bara",
+    "latitude": 3.2255,
+    "longitude": 99.5473
   },
   {
     "id": "12.20",
-    "nama": "Kab. Padang Lawas Utara"
+    "nama": "Kab. Padang Lawas Utara",
+    "latitude": 1.2522,
+    "longitude": 99.6951
   },
   {
     "id": "12.21",
-    "nama": "Kab. Padang Lawas"
+    "nama": "Kab. Padang Lawas",
+    "latitude": 1.1111,
+    "longitude": 99.9996
   },
   {
     "id": "12.22",
-    "nama": "Kab. Labuhanbatu Selatan"
+    "nama": "Kab. Labuhanbatu Selatan",
+    "latitude": 1.9421,
+    "longitude": 100.2241
   },
   {
     "id": "12.23",
-    "nama": "Kab. Labuhanbatu Utara"
+    "nama": "Kab. Labuhanbatu Utara",
+    "latitude": 2.3427,
+    "longitude": 99.7832
   },
   {
     "id": "12.24",
-    "nama": "Kab. Nias Utara"
+    "nama": "Kab. Nias Utara",
+    "latitude": 1.3053,
+    "longitude": 97.5924
   },
   {
     "id": "12.25",
-    "nama": "Kab. Nias Barat"
+    "nama": "Kab. Nias Barat",
+    "latitude": 1.1783,
+    "longitude": 97.4268
   },
   {
     "id": "12.71",
-    "nama": "Kota Medan"
+    "nama": "Kota Medan",
+    "latitude": 3.5952,
+    "longitude": 98.6722
   },
   {
     "id": "12.72",
-    "nama": "Kota Pematangsiantar"
+    "nama": "Kota Pematangsiantar",
+    "latitude": 2.9599,
+    "longitude": 99.0687
   },
   {
     "id": "12.73",
-    "nama": "Kota Sibolga"
+    "nama": "Kota Sibolga",
+    "latitude": 1.7427,
+    "longitude": 98.7791
   },
   {
     "id": "12.74",
-    "nama": "Kota Tanjung Balai"
+    "nama": "Kota Tanjung Balai",
+    "latitude": 2.9671,
+    "longitude": 99.8005
   },
   {
     "id": "12.75",
-    "nama": "Kota Binjai"
+    "nama": "Kota Binjai",
+    "latitude": 3.6000,
+    "longitude": 98.4851
   },
   {
     "id": "12.76",
-    "nama": "Kota Tebing Tinggi"
+    "nama": "Kota Tebing Tinggi",
+    "latitude": 3.3262,
+    "longitude": 99.1623
   },
   {
     "id": "12.77",
-    "nama": "Kota Padangsidimpuan"
+    "nama": "Kota Padangsidimpuan",
+    "latitude": 1.3784,
+    "longitude": 99.2712
   },
   {
     "id": "12.78",
-    "nama": "Kota Gunungsitoli"
+    "nama": "Kota Gunungsitoli",
+    "latitude": 1.2756,
+    "longitude": 97.6145
   }
 ]
