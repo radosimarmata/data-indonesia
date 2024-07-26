@@ -1,154 +1,230 @@
 [
   {
     "id": 11,
-    "nama": "Aceh (NAD)"
+    "nama": "Aceh (NAD)",
+    "latitude": 4.36855,
+    "longitude": 97.0253
   },
   {
     "id": 12,
-    "nama": "Sumatera Utara"
+    "nama": "Sumatera Utara",
+    "latitude": 2.19235,
+    "longitude": 99.38122
   },
   {
     "id": 13,
-    "nama": "Sumatera Barat"
+    "nama": "Sumatera Barat",
+    "latitude": -1.34225,
+    "longitude": 100.0761
   },
   {
     "id": 14,
-    "nama": "Riau"
+    "nama": "Riau",
+    "latitude": 0.50041,
+    "longitude": 101.54758
   },
   {
     "id": 15,
-    "nama": "Jambi"
+    "nama": "Jambi",
+    "latitude": -1.61157,
+    "longitude": 102.7797
   },
   {
     "id": 16,
-    "nama": "Sumatera Selatan"
+    "nama": "Sumatera Selatan",
+    "latitude": -3.12668,
+    "longitude": 104.09306
   },
   {
     "id": 17,
-    "nama": "Bengkulu"
+    "nama": "Bengkulu",
+    "latitude": -3.51868,
+    "longitude": 102.53598
   },
   {
     "id": 18,
-    "nama": "Lampung"
+    "nama": "Lampung",
+    "latitude": -4.8555,
+    "longitude": 105.0273
   },
   {
     "id": 19,
-    "nama": "Kepulauan Bangka Belitung"
+    "nama": "Kepulauan Bangka Belitung",
+    "latitude": -2.75775,
+    "longitude": 107.58394
   },
   {
     "id": 21,
-    "nama": "Kepulauan Riau"
+    "nama": "Kepulauan Riau",
+    "latitude": -0.15478,
+    "longitude": 104.58037
   },
   {
     "id": 31,
-    "nama": "DKI Jakarta"
+    "nama": "DKI Jakarta",
+    "latitude": 6.1745,
+    "longitude": 106.8227
   },
   {
     "id": 32,
-    "nama": "Jawa Barat"
+    "nama": "Jawa Barat",
+    "latitude": -6.88917,
+    "longitude": 107.64047
   },
   {
     "id": 33,
-    "nama": "Jawa Tengah"
+    "nama": "Jawa Tengah",
+    "latitude": -7.30324,
+    "longitude": 110.00441
   },
   {
     "id": 34,
-    "nama": "DI Yogyakarta"
+    "nama": "DI Yogyakarta",
+    "latitude": 7.7956,
+    "longitude": 110.3695
   },
   {
     "id": 35,
-    "nama": "Jawa Timur"
+    "nama": "Jawa Timur",
+    "latitude": 7.7956,
+    "longitude": 110.3695
   },
   {
     "id": 36,
-    "nama": "Banten"
+    "nama": "Banten",
+    "latitude": -6.44538,
+    "longitude": 106.13756
   },
   {
     "id": 51,
-    "nama": "Bali"
+    "nama": "Bali",
+    "latitude": -8.23566,
+    "longitude": 115.12239
   },
   {
     "id": 52,
-    "nama": "Nusa Tenggara Barat (NTB)"
+    "nama": "Nusa Tenggara Barat (NTB)",
+    "latitude": -8.12179,
+    "longitude": 117.63696
   },
   {
     "id": 53,
-    "nama": "Nusa Tenggara Timur (NTT)"
+    "nama": "Nusa Tenggara Timur (NTT)",
+    "latitude": -8.56568,
+    "longitude": 120.69786
   },
   {
     "id": 61,
-    "nama": "Kalimantan Barat"
+    "nama": "Kalimantan Barat",
+    "latitude": -0.13224,
+    "longitude": 111.09689
   },
   {
     "id": 62,
-    "nama": "Kalimantan Tengah"
+    "nama": "Kalimantan Tengah",
+    "latitude": -1.49958,
+    "longitude": 113.29033
   },
   {
     "id": 63,
-    "nama": "Kalimantan Selatan"
+    "nama": "Kalimantan Selatan",
+    "latitude": -2.94348,
+    "longitude": 115.37565
   },
   {
     "id": 64,
-    "nama": "Kalimantan Timur"
+    "nama": "Kalimantan Timur",
+    "latitude": 0.78844,
+    "longitude": 116.242
   },
   {
     "id": 65,
-    "nama": "Kalimantan Utara"
+    "nama": "Kalimantan Utara",
+    "latitude": 2.72594,
+    "longitude": 116.911
   },
   {
     "id": 71,
-    "nama": "Sulawesi Utara"
+    "nama": "Sulawesi Utara",
+    "latitude": 0.65557,
+    "longitude": 124.09015
   },
   {
     "id": 72,
-    "nama": "Sulawesi Tengah"
+    "nama": "Sulawesi Tengah",
+    "latitude": -1.69378,
+    "longitude": 120.80886
   },
   {
     "id": 73,
-    "nama": "Sulawesi Selatan"
+    "nama": "Sulawesi Selatan",
+    "latitude": -3.64467,
+    "longitude": 119.94719
   },
   {
     "id": 74,
-    "nama": "Sulawesi Tenggara"
+    "nama": "Sulawesi Tenggara",
+    "latitude": -3.54912,
+    "longitude": 121.72796
   },
   {
     "id": 75,
-    "nama": "Gorontalo"
+    "nama": "Gorontalo",
+    "latitude": 0.71862,
+    "longitude": 122.45559
   },
   {
     "id": 76,
-    "nama": "Sulawesi Barat"
+    "nama": "Sulawesi Barat",
+    "latitude": -2.49745,
+    "longitude": 119.3919
   },
   {
     "id": 81,
-    "nama": "Maluku"
+    "nama": "Maluku",
+    "latitude": -3.11884,
+    "longitude": 129.42078
   },
   {
     "id": 82,
-    "nama": "Maluku Utara"
+    "nama": "Maluku Utara",
+    "latitude": 0.63012,
+    "longitude": 127.97202
   },
   {
     "id": 91,
-    "nama": "Papua"
+    "nama": "Papua",
+    "latitude": -4.269928,
+    "longitude": 138.080353
   },
   {
     "id": 92,
-    "nama": "Papua Barat"
+    "nama": "Papua Barat",
+    "latitude": -1.336115,
+    "longitude": 133.174716
   },
   {
     "id": 93,
-    "nama": "Papua Selatan"
+    "nama": "Papua Selatan",
+    "latitude": -7.746693,
+    "longitude": 139.75047
   },
   {
     "id": 94,
-    "nama": "Papua Tengah"
+    "nama": "Papua Tengah",
+    "latitude": -4.739929,
+    "longitude": 137.713081
   },
   {
     "id": 95,
-    "nama": "Papua Pegunungan"
+    "nama": "Papua Pegunungan",
+    "latitude": -3.783171,
+    "longitude": 138.700392
   },
   {
     "id": 96,
-    "nama": "Papua Barat Daya"
+    "nama": "Papua Barat Daya",
+    "latitude": -1.234957,
+    "longitude": 132.360818
   }
 ]
