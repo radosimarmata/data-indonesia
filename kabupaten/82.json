@@ -1,42 +1,62 @@
 [
   {
     "id": "82.01",
-    "nama": "Kab. Halmahera Barat"
+    "nama": "Kab. Halmahera Barat",
+    "latitude": 1.61000,
+    "longitude": 127.13000
   },
   {
     "id": "82.02",
-    "nama": "Kab. Halmahera Tengah"
+    "nama": "Kab. Halmahera Tengah",
+    "latitude": 1.84900,
+    "longitude": 127.41100
   },
   {
     "id": "82.03",
-    "nama": "Kab. Halmahera Utara"
+    "nama": "Kab. Halmahera Utara",
+    "latitude": 1.75000,
+    "longitude": 127.26100
   },
   {
     "id": "82.04",
-    "nama": "Kab. Halmahera Selatan"
+    "nama": "Kab. Halmahera Selatan",
+    "latitude": -2.12600,
+    "longitude": 127.42500
   },
   {
     "id": "82.05",
-    "nama": "Kab. Kepulauan Sula"
+    "nama": "Kab. Kepulauan Sula",
+    "latitude": -2.86000,
+    "longitude": 126.55700
   },
   {
     "id": "82.06",
-    "nama": "Kab. Halmahera Timur"
+    "nama": "Kab. Halmahera Timur",
+    "latitude": 1.92000,
+    "longitude": 127.07600
   },
   {
     "id": "82.07",
-    "nama": "Kab. Pulau Morotai"
+    "nama": "Kab. Pulau Morotai",
+    "latitude": 2.39300,
+    "longitude": 128.29600
   },
   {
     "id": "82.08",
-    "nama": "Kab. Pulau Taliabu"
+    "nama": "Kab. Pulau Taliabu",
+    "latitude": -2.78300,
+    "longitude": 124.15600
   },
   {
     "id": "82.71",
-    "nama": "Kota Ternate"
+    "nama": "Kota Ternate",
+    "latitude": 1.54500,
+    "longitude": 127.38700
   },
   {
     "id": "82.72",
-    "nama": "Kota Tidore Kepulauan"
+    "nama": "Kota Tidore Kepulauan",
+    "latitude": 1.32100,
+    "longitude": 127.38300
   }
 ]
